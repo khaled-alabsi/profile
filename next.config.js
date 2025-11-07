@@ -6,9 +6,11 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  // Remove base path for local testing
-  assetPrefix: '',
-  basePath: '',
+  // GitHub Pages configuration
+  // Use basePath only in production for GitHub Pages
+  // For custom domains or root deployments, keep empty
+  assetPrefix: process.env.NODE_ENV === 'production' ? '' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '' : '',
 }
 
 module.exports = nextConfig

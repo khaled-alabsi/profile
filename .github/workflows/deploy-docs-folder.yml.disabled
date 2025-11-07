@@ -1,0 +1,78 @@
+# Alternative Deployment Method: Build to /docs folder
+#
+# This workflow builds the site and commits to the /docs folder
+# To use this instead of the main deploy.yml:
+# 1. Rename this file to remove .disabled extension
+# 2. Disable or delete deploy.yml
+# 3. In GitHub Settings > Pages, select "Deploy from a branch" and choose "main" branch with "/docs" folder
+#
+# NOTE: This approach commits build artifacts to your repository
+
+name: Build to docs folder
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate articles
+        run: npm run generate-articles
+
+      - name: Build and export
+        run: npm run build
+        env:
+          NODE_ENV: production
+
+      - name: Prepare docs folder
+        run: |
+          rm -rf docs
+          mkdir -p docs
+          cp -r out/* docs/
+          touch docs/.nojekyll
+
+          # Add robots.txt if it doesn't exist
+          if [ ! -f "docs/robots.txt" ]; then
+            echo "User-agent: *" > docs/robots.txt
+            echo "Allow: /" >> docs/robots.txt
+            echo "Sitemap: https://www.alabsi.space/sitemap.xml" >> docs/robots.txt
+          fi
+
+          # Copy CNAME if it exists
+          if [ -f "CNAME" ]; then
+            cp CNAME docs/
+          fi
+
+      - name: Commit and push
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add docs/
+
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🚀 Deploy to GitHub Pages [skip ci]"
+            git push
+          fi
