@@ -170,6 +170,32 @@ export const themes: Record<string, Theme> = {
     },
   },
 
+  'desert-dawn': {
+    name: 'Desert Dawn',
+    colors: {
+      primary: '#f59e0b',
+      secondary: '#d97706',
+      accent: '#facc15',
+      background: 'linear-gradient(135deg, #2d1404 0%, #4b2c16 50%, #6b3f1f 100%)',
+      surface: 'rgba(245, 158, 11, 0.08)',
+      text: '#fff7ed',
+      textSecondary: '#fde68a',
+      border: 'rgba(245, 158, 11, 0.2)',
+      gradient: 'linear-gradient(135deg, #f59e0b 0%, #d97706 50%, #facc15 100%)',
+      primaryShadow: 'rgba(245, 158, 11, 0.4)',
+      primaryShadowStrong: 'rgba(217, 119, 6, 0.75)',
+    },
+    fonts: {
+      heading: 'Playfair Display, serif',
+      body: 'Inter, sans-serif',
+    },
+    effects: {
+      glass: 'backdrop-filter: blur(14px); background: rgba(245, 158, 11, 0.08);',
+      shadow: '0 10px 40px rgba(217, 119, 6, 0.35)',
+      blur: 'blur(14px)',
+    },
+  },
+
   // Light Themes
   'arctic-frost': {
     name: 'Arctic Frost',
