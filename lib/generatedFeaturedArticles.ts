@@ -1,5 +1,5 @@
 // Auto-generated file - DO NOT EDIT MANUALLY
-// Generated on 2025-11-07T22:20:04.511Z
+// Generated on 2025-11-08T12:07:07.831Z
 // Run 'npm run generate-articles' to regenerate this file
 
 export interface FeaturedArticle {

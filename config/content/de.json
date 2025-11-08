@@ -1,7 +1,7 @@
 {
   "hero": {
     "greeting": "Hallo, ich bin",
-    "name": "M.Sc. Khaled Alabsi",
+    "name": "Khaled Alabsi",
     "roles": [
       "Digitalisierungs-Berater",
       "Freiberuflicher Software-Ingenieur",
@@ -17,10 +17,10 @@
   "about": {
     "title": "Über Mich",
     "subtitle": "Digitalisierungs-Experte, Software-Ingenieur & Kontinuierlicher Forscher",
-    "description": "Ich spezialisiere mich darauf, Unternehmen beim Übergang von manuellen Prozessen zu digitalen Lösungen zu helfen, Legacy-Systeme zu modernisieren und robuste Unternehmensanwendungen zu entwickeln. Mit meinem M.Sc. in Computer- und Kommunikationssystemen und umfangreicher Industrieerfahrung verbinde ich praktische Software-Entwicklung mit kontinuierlicher Forschung, um innovative Lösungen zu liefern, die Geschäftstransformation vorantreiben.",
+    "description": "Ich spezialisiere mich darauf, Unternehmen beim Übergang von manuellen Prozessen zu digitalen Lösungen zu helfen, Legacy-Systeme zu modernisieren und robuste Unternehmensanwendungen zu entwickeln. Durch umfangreiche Industrieerfahrung und kontinuierliche Forschung liefere ich innovative Lösungen, die Geschäftstransformation vorantreiben.",
     "highlights": [
-      "M.Sc. in Computer- & Kommunikationssystemen (2023)",
-      "B.Sc. in Angewandter Informatik (2021)",
+      "Digitalisierungsexperte mit Forschungserfahrung",
+      "Praxisnahe Expertise über den gesamten Software-Lebenszyklus",
       "10+ Jahre professionelle Software-Entwicklungserfahrung",
       "Spezialisiert auf Digitalisierung und Legacy-System-Modernisierung",
       "Experte für Unternehmenssoftware-Entwicklung und DevOps-Praktiken",

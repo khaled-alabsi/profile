@@ -3,7 +3,7 @@
 ## ✅ Summary of Completed Changes
 
 ### 1. Enhanced SEO for "Khaled Alabsi" Search Results
-- **Expanded Keywords**: Added 15+ variations including "Khaled Alabsi Germany", "M.Sc. Khaled Alabsi", "digital transformation consultant"
+- **Expanded Keywords**: Added 15+ variations including "Khaled Alabsi Germany", "Khaled Alabsi consultant", "digital transformation consultant"
 - **Structured Data**: Added JSON-LD schema for Person entity with professional details
 - **Social Media**: Enhanced Open Graph and Twitter meta tags with profile image
 - **Meta Description**: Improved with location, credentials, and service offerings
@@ -49,7 +49,7 @@
 ## 🎯 SEO Benefits
 
 ### Search Visibility for "Khaled Alabsi"
-1. **Primary Keywords**: Khaled Alabsi, M.Sc. Khaled Alabsi, Khaled Alabsi Germany
+1. **Primary Keywords**: Khaled Alabsi, Khaled Alabsi consultant, Khaled Alabsi Germany
 2. **Professional Keywords**: Digital transformation consultant, Software engineer Germany
 3. **Service Keywords**: Legacy system modernization, Business process automation
 4. **Technology Keywords**: Java Spring Boot, ReactJS, Cloud computing
