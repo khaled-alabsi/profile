@@ -81,11 +81,17 @@ const Contact = ({ content, config, currentLanguage }: ContactProps) => {
                     </div>
                     <div id={`contact-method-content-${index}`}>
                       <h4 id={`contact-method-label-${index}`} className="font-semibold" style={{ color: 'var(--text)' }}>{method.label}</h4>
-                      <p id={`contact-method-value-${index}`} className="text-gray-300">{method.value}</p>
+                      <p
+                        id={`contact-method-value-${index}`}
+                        className="text-theme-secondary"
+                        style={{ color: method.color || 'var(--text-secondary)' }}
+                      >
+                        {method.value}
+                      </p>
                     </div>
                   </div>
                 )) || (
-                  <div id="no-contact-info-message" className="text-center text-gray-400">
+                  <div id="no-contact-info-message" className="text-center text-theme-muted">
                     No contact information found
                   </div>
                 )}
@@ -109,7 +115,7 @@ const Contact = ({ content, config, currentLanguage }: ContactProps) => {
                         <span>🔗</span>
                       </a>
                     )) || (
-                      <div id="no-social-links-message" className="text-gray-400 text-sm">
+                      <div id="no-social-links-message" className="text-theme-muted text-sm">
                         No social links found
                       </div>
                     )}
