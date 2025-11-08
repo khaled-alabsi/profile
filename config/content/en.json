@@ -1,7 +1,7 @@
 {
   "hero": {
     "greeting": "Hello, I'm",
-    "name": "M.Sc. Khaled Alabsi",
+    "name": "Khaled Alabsi",
     "roles": [
       "Digital Transformation Consultant",
       "Freelance Software Engineer",
@@ -17,10 +17,10 @@
   "about": {
     "title": "About Me",
     "subtitle": "Digital Transformation Expert, Software Engineer & Continuous Researcher",
-    "description": "I specialize in helping companies transition from manual processes to digital solutions, modernizing legacy systems, and building robust enterprise applications. With my M.Sc. in Computer and Communication Systems and extensive industry experience, I combine practical software development with continuous research to deliver innovative solutions that drive business transformation.",
+    "description": "I specialize in helping companies transition from manual processes to digital solutions, modernizing legacy systems, and building robust enterprise applications. Combining extensive industry experience with continuous research, I deliver innovative solutions that drive business transformation.",
     "highlights": [
-      "M.Sc. in Computer & Communication Systems (2023)",
-      "B.Sc. in Applied Computer Science (2021)",
+      "Digital transformation strategist with academic research background",
+      "Hands-on expertise across the full software development lifecycle",
       "10+ years professional software development experience",
       "Specialized in digital transformation and legacy system modernization",
       "Expert in enterprise software development and DevOps practices",
