@@ -8,7 +8,7 @@
       "Legacy-System Modernisierung",
       "Prozessautomatisierungs-Spezialist"
     ],
-    "description": "Ich helfe Unternehmen beim Übergang von manuellen Prozessen zu intelligenten digitalen Lösungen, modernisiere Legacy-Systeme und entwickle skalierbare Unternehmensanwendungen. Verbinde Entwicklungsexpertise mit kontinuierlicher Forschung für zukunftsweisende Lösungen.",
+    "description": "Ich helfe Unternehmen beim Übergang von manuellen Prozessen zu intelligenten digitalen Lösungen, modernisiere Legacy-Systeme und entwickle skalierbare Unternehmensanwendungen. Verbinde Entwicklungsexpertise mit kontinuierlicher Forschung für zukunftsweisende Lösungen, jetzt erweitert durch agentische KI-Orchestrierungen, die Modernisierungsstrategien in umsetzbare Automatisierung überführen.",
     "cta": {
       "primary": "Ihr Business transformieren",
       "secondary": "Meine Lösungen ansehen"
@@ -25,6 +25,7 @@
       "Spezialisiert auf Digitalisierung und Legacy-System-Modernisierung",
       "Experte für Unternehmenssoftware-Entwicklung und DevOps-Praktiken",
       "Kontinuierliche Forschung in aufkommenden Technologien und Automatisierung",
+      "Agentische KI-Beschleuniger, die Modernisierungsvorhaben beschleunigen und schneller Mehrwert freisetzen",
       "Verfügbar für Freelance-Projekte und Beratung weltweit",
       "Fokus: Manuell-zu-digital Konversion und Geschäftsprozess-Automatisierung"
     ],
@@ -80,6 +81,16 @@
           "Projektberatung",
           "Technische Führung"
         ]
+      },
+      {
+        "name": "Agentische KI-Lösungen",
+        "technologies": [
+          "Agentische KI für Digitalisierung",
+          "KI-gestützte Transformation",
+          "Agentische Systeme für Legacy-Code-Migration",
+          "Autonome Workflow-Orchestrierung",
+          "Human-in-the-Loop Governance-Modelle"
+        ]
       }
     ]
   },
@@ -105,7 +116,13 @@
       {
         "title": "Legacy-System Modernisierung & Migration",
         "description": "Erfolgreich Legacy-COBOL und Mainframe-Anwendungen zu moderner Java-basierter Microservices-Architektur migriert. Geschäftslogik bewahrt während Verbesserung von Performance, Wartbarkeit und Skalierbarkeit für Unternehmenskunden im Banking- und Versicherungssektor.",
-        "technologies": ["Java", "Spring Boot", "Microservices", "Legacy-Migration", "Systemintegration"],
+        "technologies": [
+          "Java",
+          "Spring Boot",
+          "Microservices",
+          "Legacy-Migration",
+          "Systemintegration"
+        ],
         "image": "",
         "demo": "",
         "github": "",
@@ -142,7 +159,12 @@
       {
         "title": "Versicherungs-Schadenbearbeitung Modernisierung",
         "description": "Modernisierte Legacy-Versicherungs-Schadenbearbeitungssystem, automatisierte manuelle Dateneingabe und Genehmigungsworkflows. Implementierte Machine Learning für Betrugserkennung und automatisierte Schadensweiterleitung basierend auf Komplexität und Risikofaktoren.",
-        "technologies": ["Kubernetes", "Docker", "KI/ML", "Prozessautomatisierung"],
+        "technologies": [
+          "Kubernetes",
+          "Docker",
+          "KI/ML",
+          "Prozessautomatisierung"
+        ],
         "image": "",
         "demo": "",
         "github": "",
@@ -151,7 +173,12 @@
       {
         "title": "Unternehmens-Cloud-Migration & DevOps",
         "description": "Leitete umfassende Cloud-Migration für Unternehmen beim Übergang von On-Premise Legacy-Systemen zu moderner Cloud-Infrastruktur. Implementierte CI/CD-Pipelines, Containerisierung und automatisierte Deployment-Strategien.",
-        "technologies": ["AWS", "Kubernetes", "Terraform", "Jenkins"],
+        "technologies": [
+          "AWS",
+          "Kubernetes",
+          "Terraform",
+          "Jenkins"
+        ],
         "image": "",
         "demo": "",
         "github": "",

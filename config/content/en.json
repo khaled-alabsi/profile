@@ -8,7 +8,7 @@
       "Legacy System Modernization Expert",
       "Process Automation Specialist"
     ],
-    "description": "I help companies transition from manual processes to intelligent digital solutions, modernize legacy systems, and build scalable enterprise applications. Combining development expertise with continuous research to deliver cutting-edge solutions.",
+    "description": "I help companies transition from manual processes to intelligent digital solutions, modernize legacy systems, and build scalable enterprise applications. Combining development expertise with continuous research to deliver cutting-edge solutions, now enhanced with agentic AI orchestrations that turn modernization strategies into actionable automation.",
     "cta": {
       "primary": "Transform Your Business",
       "secondary": "View My Solutions"
@@ -25,6 +25,7 @@
       "Specialized in digital transformation and legacy system modernization",
       "Expert in enterprise software development and DevOps practices",
       "Continuous research in emerging technologies and automation",
+      "Agentic AI accelerators that compress modernization timelines and unlock value faster",
       "Available for freelance projects and consulting worldwide",
       "Focus: Manual-to-digital conversion and business process automation"
     ],
@@ -80,6 +81,16 @@
           "Project Consulting",
           "Technical Leadership"
         ]
+      },
+      {
+        "name": "Agentic AI Solutions",
+        "technologies": [
+          "Agentic AI for Digitalization",
+          "AI-Driven Business Transformation",
+          "Agentic Systems for Legacy Code Migration",
+          "Autonomous Workflow Orchestration",
+          "Human-in-the-loop Governance Models"
+        ]
       }
     ]
   },
@@ -105,7 +116,13 @@
       {
         "title": "Legacy System Modernization & Migration",
         "description": "Successfully migrated legacy COBOL and mainframe applications to modern Java-based microservices architecture. Preserved business logic while improving performance, maintainability, and scalability for enterprise clients in banking and insurance sectors.",
-        "technologies": ["Java", "Spring Boot", "Microservices", "Legacy Migration", "System Integration"],
+        "technologies": [
+          "Java",
+          "Spring Boot",
+          "Microservices",
+          "Legacy Migration",
+          "System Integration"
+        ],
         "image": "",
         "demo": "",
         "github": "",
@@ -142,7 +159,12 @@
       {
         "title": "Insurance Claims Processing Modernization",
         "description": "Modernized legacy insurance claims processing system, automating manual data entry and approval workflows. Implemented machine learning for fraud detection and automated claim routing based on complexity and risk factors.",
-        "technologies": ["Kubernetes", "Docker", "AI/ML", "Process Automation"],
+        "technologies": [
+          "Kubernetes",
+          "Docker",
+          "AI/ML",
+          "Process Automation"
+        ],
         "image": "",
         "demo": "",
         "github": "",
@@ -151,7 +173,12 @@
       {
         "title": "Enterprise Cloud Migration & DevOps",
         "description": "Led comprehensive cloud migration for enterprises moving from on-premise legacy systems to modern cloud infrastructure. Implemented CI/CD pipelines, containerization, and automated deployment strategies.",
-        "technologies": ["AWS", "Kubernetes", "Terraform", "Jenkins"],
+        "technologies": [
+          "AWS",
+          "Kubernetes",
+          "Terraform",
+          "Jenkins"
+        ],
         "image": "",
         "demo": "",
         "github": "",
