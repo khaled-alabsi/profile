@@ -3,54 +3,44 @@
     "greeting": "Hallo, ich bin",
     "name": "Khaled Alabsi",
     "roles": [
-      "Berater für agentische KI-Transformation",
-      "Stratege für Large Language Models",
-      "Leiter für Legacy-Modernisierung",
-      "Forscher für Automatisierung"
+      "Digitalisierungs-Berater",
+      "Freiberuflicher Software-Ingenieur",
+      "Legacy-System Modernisierung",
+      "Prozessautomatisierungs-Spezialist"
     ],
-    "description": "Ich konzipiere, baue und adaptiere agentische KI-Systeme, die Legacy-Komplexität in moderne, intelligente Plattformen verwandeln. Von LLM-Orchestrierung bis hin zur vollständigen Code-Migration begleite ich Organisationen von manuellen Abläufen zu resilienten, datengetriebenen Produkten.",
+    "description": "Ich helfe Unternehmen beim Übergang von manuellen Prozessen zu intelligenten digitalen Lösungen, modernisiere Legacy-Systeme und entwickle skalierbare Unternehmensanwendungen. Verbinde Entwicklungsexpertise mit kontinuierlicher Forschung für zukunftsweisende Lösungen.",
     "cta": {
-      "primary": "Ihre KI-Transformation planen",
-      "secondary": "Agentische Lösungen entdecken"
+      "primary": "Ihr Business transformieren",
+      "secondary": "Meine Lösungen ansehen"
     }
   },
   "about": {
-    "title": "Über mich",
-    "subtitle": "Agentic-AI-Stratege, Software Engineer & Legacy-Modernisierer",
-    "description": "Ich entwickle agentische KI-Programme, die Large Language Models, Automatisierung und moderne Engineering-Praktiken verbinden. Mein Fokus liegt darauf, Legacy-Software und Geschäftsprozesse in adaptive Plattformen zu übersetzen, die Menschen die Kontrolle lassen, während Maschinen die schwere Arbeit übernehmen.",
+    "title": "Über Mich",
+    "subtitle": "Digitalisierungs-Experte, Software-Ingenieur & Kontinuierlicher Forscher",
+    "description": "Ich spezialisiere mich darauf, Unternehmen beim Übergang von manuellen Prozessen zu digitalen Lösungen zu helfen, Legacy-Systeme zu modernisieren und robuste Unternehmensanwendungen zu entwickeln. Durch umfangreiche Industrieerfahrung und kontinuierliche Forschung liefere ich innovative Lösungen, die Geschäftstransformation vorantreiben.",
     "highlights": [
-      "Architektonische Gestaltung von KI-Agenten mit menschlicher Kontrolle für regulierte Branchen",
-      "Transformation monolithischer Altanwendungen zu KI-unterstützten Services mit messbarem ROI",
-      "Design von Retrieval- und Orchestrierungspipelines, die LLMs produktionsreif machen",
-      "Über 10 Jahre Erfahrung in Enterprise-Software und Migrationsprogrammen",
-      "Verbindet Software-Handwerk mit praxisnaher KI-Forschung und Experimenten",
-      "Erfahrung mit Multi-Agent-Frameworks, Evaluatoren und Sicherheitsleitplanken",
-      "Weltweit verfügbar für Beratung, Delivery-Führung und Capability-Aufbau",
-      "Fokus: Einführung agentischer KI, LLM-gestützte Legacy-Modernisierung und Automatisierung"
+      "Digitalisierungsexperte mit Forschungserfahrung",
+      "Praxisnahe Expertise über den gesamten Software-Lebenszyklus",
+      "10+ Jahre professionelle Software-Entwicklungserfahrung",
+      "Spezialisiert auf Digitalisierung und Legacy-System-Modernisierung",
+      "Experte für Unternehmenssoftware-Entwicklung und DevOps-Praktiken",
+      "Kontinuierliche Forschung in aufkommenden Technologien und Automatisierung",
+      "Verfügbar für Freelance-Projekte und Beratung weltweit",
+      "Fokus: Manuell-zu-digital Konversion und Geschäftsprozess-Automatisierung"
     ],
     "skills": [
       {
-        "name": "Agentische KI-Systeme",
+        "name": "Digitale Transformation",
         "technologies": [
-          "Autonome Agenten",
-          "LLM-Orchestrierung",
-          "Retrieval-Augmented Generation (RAG)",
-          "LangChain / LangGraph",
-          "Vektordatenbanken"
+          "Legacy-System Modernisierung",
+          "Geschäftsprozess-Automatisierung",
+          "Manuell-zu-digital Konversion",
+          "Workflow-Optimierung",
+          "Systemintegration"
         ]
       },
       {
-        "name": "Legacy-Modernisierung",
-        "technologies": [
-          "Automatisierte Code-Refaktorisierung",
-          "Strangler-Fig-Architekturen",
-          "Domänendekomposition",
-          "Mainframe-zu-Cloud-Migration",
-          "API-Modernisierung"
-        ]
-      },
-      {
-        "name": "Enterprise-Plattformen",
+        "name": "Unternehmens-Entwicklung",
         "technologies": [
           "Java",
           "Kotlin",
@@ -60,84 +50,52 @@
         ]
       },
       {
-        "name": "DevOps & MLOps",
+        "name": "DevOps & Cloud",
         "technologies": [
           "Docker",
           "Kubernetes",
-          "OpenShift",
-          "GitHub Actions",
-          "CI/CD-Automatisierung",
-          "Modell-Monitoring"
+          "Openshift",
+          "TeamCity",
+          "Jenkins",
+          "Ansible",
+          "Vagrant"
         ]
       },
       {
-        "name": "Advisory & Enablement",
+        "name": "Daten & Automatisierung",
         "technologies": [
-          "AI Governance",
-          "Fähigkeiten-Roadmaps",
-          "LLM-Sicherheitsreviews",
-          "Upskilling-Programme",
-          "Executive-Workshops"
+          "Prozessautomatisierung",
+          "Python",
+          "Datenbank-Modernisierung",
+          "API-Entwicklung",
+          "Integrationslösungen"
+        ]
+      },
+      {
+        "name": "Beratungsservices",
+        "technologies": [
+          "Technologiebewertung",
+          "Migrationsplanung",
+          "Systemarchitektur",
+          "Projektberatung",
+          "Technische Führung"
         ]
       }
     ]
   },
   "experience": {
-    "title": "Agentic-AI-Programme & Projektportfolio",
-    "subtitle": "Legacy-Landschaften mit Large Language Models und Automatisierung modernisieren",
+    "title": "Digitale Lösungen & Projekt-Portfolio",
+    "subtitle": "Transformation manueller Prozesse & Modernisierung von Legacy-Systemen",
     "projects": [
       {
-        "title": "Agentischer Operations Control Tower",
-        "description": "Entwarf eine Multi-Agent-Orchestrierungsschicht, die Serviceanfragen, Dokumentation und Freigaben über ERP- und CRM-Systeme hinweg koordiniert. Führte zu messbaren Reduktionen manueller Arbeit und kürzeren Reaktionszeiten durch KI-überwachte Automatisierungen.",
-        "technologies": [
-          "Agentische Workflows",
-          "LangGraph",
-          "Prozessautomatisierung",
-          "ERP-Integration",
-          "Observability"
-        ],
-        "image": "",
-        "demo": "",
-        "github": "",
-        "featured": true
-      },
-      {
-        "title": "LLM-gestützte Legacy-Migration Factory",
-        "description": "Aufbau einer Modernisierungs-Pipeline, die statische Analysen mit LLM-Copilots kombiniert, um Mainframe-Module in Spring-Boot-Microservices zu überführen. Dokumentation, Regressionstests und Wissenssicherung wurden automatisiert.",
-        "technologies": [
-          "Java",
-          "Spring Boot",
-          "Legacy-Migration",
-          "LLM-Agenten",
-          "Knowledge Graphs"
-        ],
-        "image": "",
-        "demo": "",
-        "github": "",
-        "featured": true
-      },
-      {
-        "title": "Manufacturing AI Knowledge Assistant",
-        "description": "Einführung eines mehrsprachigen agentischen Assistenten, der SOPs, Sensordaten und Troubleshooting-Schritte für Shopfloor-Teams bereitstellt. Kombination aus RAG und IoT-Feeds, um Ausfälle proaktiv zu verhindern.",
-        "technologies": [
-          "Python",
-          "RAG-Pipelines",
-          "IoT-Integration",
-          "Vektorsuche"
-        ],
-        "image": "",
-        "demo": "",
-        "github": "",
-        "featured": true
-      },
-      {
-        "title": "Banking Compliance Copilot",
-        "description": "Entwicklung eines LLM-basierten Prüfassistenten für Wertpapierprodukte, der Dossiers automatisiert erstellt, Auffälligkeiten markiert und Freigaben beschleunigt – mit Audit-Trails und regulatorischen Leitplanken.",
+        "title": "Unternehmens-Digitalisierung",
+        "description": "Unterstützte Unternehmen beim Übergang von manuellen, papiergestützten Prozessen zu umfassenden digitalen Workflows. Implementierte automatisierte Dokumentenverarbeitung, digitale Genehmigungssysteme und Echtzeit-Reporting-Dashboards, wodurch die Bearbeitungszeit erheblich reduziert und menschliche Fehler eliminiert wurden.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
-          "Compliance-Automatisierung",
-          "LLM-Evaluation"
+          "Prozessautomatisierung",
+          "Digitale Workflows",
+          "API-Integration"
         ],
         "image": "",
         "demo": "",
@@ -145,43 +103,69 @@
         "featured": true
       },
       {
-        "title": "Insurance Claims Intelligence Platform",
-        "description": "Modernisierung des Schadensprozesses durch eventgetriebene Services, LLM-Triage-Agenten und Fraud-Detection-Modelle. Reduzierte manuellen Aufwand und stellte nachvollziehbare Entscheidungen sicher.",
+        "title": "Legacy-System Modernisierung & Migration",
+        "description": "Erfolgreich Legacy-COBOL und Mainframe-Anwendungen zu moderner Java-basierter Microservices-Architektur migriert. Geschäftslogik bewahrt während Verbesserung von Performance, Wartbarkeit und Skalierbarkeit für Unternehmenskunden im Banking- und Versicherungssektor.",
+        "technologies": ["Java", "Spring Boot", "Microservices", "Legacy-Migration", "Systemintegration"],
+        "image": "",
+        "demo": "",
+        "github": "",
+        "featured": true
+      },
+      {
+        "title": "Fertigungsprozess-Digitalisierung",
+        "description": "Transformierte manuelle Qualitätskontroll- und Bestandsverfolgungsprozesse in automatisierte digitale Systeme. Implementierte IoT-Sensoren, Echtzeit-Überwachungs-Dashboards und vorausschauende Wartungslösungen, wodurch die Betriebseffizienz erheblich verbessert wurde.",
         "technologies": [
-          "Kubernetes",
-          "Event-getriebene Architektur",
-          "AI/ML",
-          "Agentenbewertung"
+          "Python",
+          "IoT-Integration",
+          "Echtzeit-Überwachung",
+          "Prozessautomatisierung"
         ],
+        "image": "",
+        "demo": "",
+        "github": "",
+        "featured": true
+      },
+      {
+        "title": "Banking Digital Workflow-Automatisierung",
+        "description": "Freelance-Projekt: Entwickelte sichere, skalierbare Anwendungen für Wertpapierprodukte mit automatisierten Genehmigungsworkflows, ersetzte manuelle Überprüfungsprozesse. Verbesserte Compliance-Verfolgung und reduzierte Bearbeitungszeit erheblich.",
+        "technologies": [
+          "Spring Boot",
+          "ReactJS",
+          "TeamCity",
+          "Workflow-Automatisierung"
+        ],
+        "image": "",
+        "demo": "",
+        "github": "",
+        "featured": true
+      },
+      {
+        "title": "Versicherungs-Schadenbearbeitung Modernisierung",
+        "description": "Modernisierte Legacy-Versicherungs-Schadenbearbeitungssystem, automatisierte manuelle Dateneingabe und Genehmigungsworkflows. Implementierte Machine Learning für Betrugserkennung und automatisierte Schadensweiterleitung basierend auf Komplexität und Risikofaktoren.",
+        "technologies": ["Kubernetes", "Docker", "KI/ML", "Prozessautomatisierung"],
         "image": "",
         "demo": "",
         "github": "",
         "featured": false
       },
       {
-        "title": "Cloud-Modernisierung mit AI Ops",
-        "description": "Leitete eine Cloud-Migration mit KI-gestützter Observability, prädiktiver Skalierung und automatisierten Runbooks. Ermöglichte Teams, Vorfälle proaktiv mit Human-in-the-Loop-Schutzmaßnahmen zu adressieren.",
-        "technologies": [
-          "AWS",
-          "Kubernetes",
-          "Terraform",
-          "MLOps",
-          "Incident-Automatisierung"
-        ],
+        "title": "Unternehmens-Cloud-Migration & DevOps",
+        "description": "Leitete umfassende Cloud-Migration für Unternehmen beim Übergang von On-Premise Legacy-Systemen zu moderner Cloud-Infrastruktur. Implementierte CI/CD-Pipelines, Containerisierung und automatisierte Deployment-Strategien.",
+        "technologies": ["AWS", "Kubernetes", "Terraform", "Jenkins"],
         "image": "",
         "demo": "",
         "github": "",
         "featured": false
       },
       {
-        "title": "Neugestaltung einer Wertpapierplattform",
-        "description": "Neuaufbau einer Banking-Plattform mit modularen Micro-Frontends, LLM-gestützter Dokumentationspipeline und automatisierten Release-Gates. Steigerte die Liefergeschwindigkeit bei voller Compliance.",
+        "title": "Wertpapier-Produktplattform (Banking)",
+        "description": "Freelance-Projekt: Entwickelte sichere, skalierbare Full-Stack-Anwendungen mit Spring Boot und ReactJS mit Micro-Frontend-Architektur. Verbesserte Wartbarkeit und Modularität sowie optimierte CI/CD-Pipelines mit TeamCity.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
           "TeamCity",
           "Micro-Frontend-Architektur",
-          "LLM-Automatisierung"
+          "Banking-Systeme"
         ],
         "image": "",
         "demo": "",
@@ -189,14 +173,14 @@
         "featured": false
       },
       {
-        "title": "Industrielle Prozessintelligenz",
-        "description": "Implementierung KI-gestützter Überwachung für Produktionslinien mit multivariaten Analysen, Anomalieerkennung und generativen Erklärungen. Früherkennung und Handlungsempfehlungen über agentische Copilots.",
+        "title": "Industrielles Prozessüberwachungssystem",
+        "description": "Entwickelte KI-gestütztes Echtzeit-Überwachungssystem für Produktionsprozesse, implementierte multivariate Kontrollkarten und statistische Anomalieerkennung. Reduzierte Fehlalarme und verbesserte frühzeitige Erkennung von Prozessabweichungen.",
         "technologies": [
           "Python",
           "Statistische Analyse",
           "Prozesskontrolle",
-          "AI/ML",
-          "Generative Insights"
+          "KI/ML",
+          "Echtzeit-Überwachung"
         ],
         "image": "",
         "demo": "",
@@ -206,114 +190,114 @@
     ]
   },
   "inspiration": {
-    "title": "Agentische KI produktiv machen",
-    "subtitle": "Transformation gelingt, wenn Menschen, Prozesse und Modelle zusammenarbeiten",
-    "description": "Ob Legacy-Migration oder neue Fähigkeit – agentische KI verkürzt Lieferzyklen, erhöht Qualität und eröffnet neue Services. Hier sind wirkungsstarke Einstiegspunkte, die ich realisiere.",
+    "title": "Verwandeln Sie Ihre Ideen in Realität",
+    "subtitle": "Digitale Transformation beginnt mit einem einzigen Schritt",
+    "description": "Jede erfolgreiche digitale Transformation beginnt mit der Erkenntnis des Verbesserungspotentials. Hier sind häufige Szenarien, in denen Technologie Ihre Geschäftsabläufe revolutionieren kann.",
     "cta": {
-      "title": "Bereit für Ihren KI-Fahrplan?",
-      "description": "Lassen Sie uns Pilot, Betriebsmodell und Leitplanken definieren, damit agentische KI nachhaltig in Ihrer Organisation verankert wird.",
-      "primaryButton": "Pilot gestalten",
-      "secondaryButton": "Workshop planen"
+      "title": "Bereit, Ihre digitale Reise zu beginnen?",
+      "description": "Lassen Sie nicht zu, dass manuelle Prozesse Ihr Geschäft zurückhalten. Lassen Sie uns besprechen, wie wir Ihre Abläufe transformieren und Ihr Potenzial freisetzen können.",
+      "primaryButton": "Starten Sie Ihre Transformation",
+      "secondaryButton": "Beratung vereinbaren"
     },
     "stats": {
-      "title": "Ergebnisse aktueller Programme",
+      "title": "Warum digitale Transformation wichtig ist",
       "items": [
         {
-          "number": "70%",
-          "description": "Beschleunigung der Code-Migration mit LLM-Copilots"
+          "number": "85%",
+          "description": "Reduzierung manueller Arbeit nach Automatisierung"
         },
         {
-          "number": "4x",
-          "description": "Steigerung der Automatisierungsabdeckung in den Operations"
+          "number": "60%",
+          "description": "Schnellere Entscheidungsfindung mit Echtzeitdaten"
         },
         {
-          "number": "<30d",
-          "description": "Zeit bis zum Start governter Agentic-AI-Piloten"
+          "number": "40%",
+          "description": "Kosteneinsparungen durch Prozessoptimierung"
         },
         {
-          "number": "100%",
-          "description": "Nachvollziehbarkeit von KI-unterstützten Entscheidungen"
+          "number": "95%",
+          "description": "Verbesserung der Kundenzufriedenheit"
         }
       ]
     }
   },
   "motivation": {
-    "title": "Warum für agentische KI zusammenarbeiten?",
-    "subtitle": "Pragmatische Umsetzung, messbare Transformation",
+    "title": "Warum mich für Ihre Digitale Transformation wählen",
+    "subtitle": "Entwicklungsexzellenz & Kontinuierliche Innovation",
     "points": [
       {
-        "title": "Menschenzentrierte Automatisierung",
-        "description": "Designs, die Fachexperten einbinden, während Agenten repetitive Aufgaben übernehmen.",
-        "icon": "Users"
+        "title": "Manuell-zu-digital Expertise",
+        "description": "Spezialisierte Erfahrung in der Konversion manueller, papiergestützter Prozesse zu effizienten digitalen Workflows, hilft Unternehmen Kosten zu reduzieren und Genauigkeit zu verbessern.",
+        "icon": "Lightbulb"
       },
       {
-        "title": "Legacy-first Mindset",
-        "description": "Tiefe Erfahrung im Entflechten kritischer Systeme, Mapping von Abhängigkeiten und sicherer Einführung von KI.",
-        "icon": "Layers"
+        "title": "Legacy-System Modernisierung",
+        "description": "Bewährte Erfolgsbilanz in der Modernisierung von Legacy-Anwendungen und Migration veralteter Systeme zu modernen, skalierbaren Architekturen ohne Störung des Geschäftsbetriebs.",
+        "icon": "Award"
       },
       {
-        "title": "Operative Exzellenz",
-        "description": "Einbettung von Observability, Governance und Qualitätskontrollen, damit KI-Lösungen skalieren.",
-        "icon": "Shield"
+        "title": "Globale Remote-Zusammenarbeit",
+        "description": "Verfügbar für Projekte weltweit mit umfangreicher Erfahrung in Remote-Zusammenarbeit, agilen Methodologien und interkulturellem Teammanagement.",
+        "icon": "Target"
       },
       {
-        "title": "Forschungsgetriebene Delivery",
-        "description": "Kontinuierliche Experimente mit aktueller LLM-Tooling, Evaluierungstechniken und Sicherheitsframeworks.",
-        "icon": "Flask"
+        "title": "Kontinuierliche Forschung & Innovation",
+        "description": "An der Spitze der Technologie durch kontinuierliche Forschung und Entwicklung, um sicherzustellen, dass Ihre Projekte von den neuesten Fortschritten in Software-Engineering und Automatisierung profitieren.",
+        "icon": "TrendingUp"
       }
     ],
     "cta": {
-      "title": "Planen Sie ein KI- oder Modernisierungsprojekt?",
-      "description": "Von Strategie bis Umsetzung unterstütze ich Teams, agentische KI verantwortungsvoll einzuführen und schneller zu modernisieren.",
-      "button": "Discovery Call buchen"
+      "title": "Bereit, Ihre Geschäftsprozesse zu modernisieren?",
+      "description": "Ob Sie manuelle Workflows digitalisieren, Legacy-Systeme modernisieren oder neue Unternehmenslösungen entwickeln müssen, ich bin für Freelance-Projekte verfügbar, die digitale Transformation vorantreiben.",
+      "button": "Ihre Transformation starten"
     }
   },
   "process": {
-    "title": "So liefern wir KI-Transformation",
-    "subtitle": "Strukturiert, transparent und kollaborativ",
+    "title": "Mein Entwicklungsprozess",
+    "subtitle": "Vom Konzept zur Produktion",
     "steps": [
       {
         "number": "01",
-        "title": "Assessment & Framing",
-        "description": "Legacy-Assets, Datenflüsse und Zielbilder erfassen. Erfolgsmetriken und Governance früh definieren.",
-        "icon": "Map"
+        "title": "Entdeckung & Analyse",
+        "description": "Verständnis der Geschäftsanforderungen, technischen Einschränkungen und Sicherheitsüberlegungen",
+        "icon": "Lightbulb"
       },
       {
         "number": "02",
-        "title": "Experience & Architektur",
-        "description": "Agentische Workflows, LLM-Stack und Integrationsmuster passend zu Teams und Plattformen gestalten.",
-        "icon": "Puzzle"
+        "title": "Architektur & Planung",
+        "description": "Entwurf skalierbarer, sicherer Architektur mit klarer Implementierungs-Roadmap",
+        "icon": "Search"
       },
       {
         "number": "03",
-        "title": "Pilotaufbau",
-        "description": "KI-Agenten, Konnektoren und Evaluierungs-Framework agil und testgetrieben entwickeln.",
-        "icon": "Cpu"
+        "title": "Entwicklung & Testing",
+        "description": "Agile Entwicklung mit kontinuierlicher Integration, automatisierten Tests und Code-Qualitätssicherung",
+        "icon": "Code"
       },
       {
         "number": "04",
-        "title": "Härtung & Rollout",
-        "description": "Leitplanken, Monitoring und Change-Management für die Skalierung operationalisieren.",
-        "icon": "ShieldCheck"
+        "title": "DevOps & Bereitstellung",
+        "description": "Containerisierte Bereitstellung mit CI/CD-Pipelines, Überwachung und Infrastruktur als Code",
+        "icon": "Rocket"
       },
       {
         "number": "05",
-        "title": "Enablement & Übergabe",
-        "description": "Teams befähigen, Playbooks dokumentieren und kontinuierliche Verbesserungsrituale verankern.",
-        "icon": "BookOpen"
+        "title": "Überwachung & Optimierung",
+        "description": "Leistungsüberwachung, Sicherheitsaudits und kontinuierliche Optimierung",
+        "icon": "TrendingUp"
       },
       {
         "number": "06",
-        "title": "Weiterentwicklung & Optimierung",
-        "description": "Wertbeitrag messen, Prompts und Modelle iterieren und Automatisierung verantwortungsvoll ausweiten.",
-        "icon": "RefreshCcw"
+        "title": "Support & Evolution",
+        "description": "Laufende Wartung, Feature-Erweiterungen und Technologie-Updates",
+        "icon": "Wrench"
       }
     ]
   },
   "contact": {
-    "title": "Lassen Sie uns Ihren nächsten KI-Durchbruch gestalten",
-    "subtitle": "Für strategische Engagements weltweit verfügbar",
-    "description": "Sie benötigen einen agentischen KI-Pilot, einen Modernisierungsfahrplan oder operative Delivery-Führung? Ich unterstütze Organisationen dabei, vertrauenswürdige KI-Systeme zu etablieren, die Compliance respektieren, global skalieren und messbaren Wert liefern.",
+    "title": "Lassen Sie uns an Ihrem nächsten Projekt arbeiten",
+    "subtitle": "Verfügbar für Freelance-Projekte weltweit",
+    "description": "Ob Sie Digitalisierungsberatung, Unternehmenssoftware-Entwicklung, Legacy-System-Modernisierung oder Prozessautomatisierungslösungen benötigen, ich bin bereit, Ihnen beim Erreichen Ihrer Ziele zu helfen. Mit meiner Expertise in Entwicklung und kontinuierlicher Forschung liefere ich Ergebnisse, die zählen.",
     "info": [
       {
         "icon": "Mail",
@@ -330,22 +314,22 @@
       "name": "Ihr Name",
       "email": "Ihre E-Mail",
       "subject": "Projektanfrage",
-      "message": "Beschreiben Sie Ihre KI- oder Modernisierungsziele...",
+      "message": "Beschreiben Sie Ihre Projektanforderungen...",
       "submit": "Projektanfrage senden",
       "sending": "Wird gesendet...",
       "successMessage": "Projektanfrage erfolgreich gesendet!",
       "namePlaceholder": "Ihr Name",
-      "emailPlaceholder": "sie@unternehmen.de",
-      "subjectPlaceholder": "Projekttyp (z. B. Agentic-AI-Pilot, Legacy-Migration)",
-      "messagePlaceholder": "Teilen Sie Landschaft, Ziele und Zeitplan..."
+      "emailPlaceholder": "ihre@email.com",
+      "subjectPlaceholder": "Projekttyp (z.B. Digitalisierung, Legacy-Modernisierung)",
+      "messagePlaceholder": "Erzählen Sie mir von Ihren Projektanforderungen, Zeitplan und Budget..."
     },
     "social": {
-      "title": "Vernetzen Sie sich",
-      "description": "Aktuelle Einblicke und Updates verfolgen"
+      "title": "Verbinden Sie sich mit mir",
+      "description": "Folgen Sie meinen beruflichen Updates und Einblicken"
     },
     "cta": {
-      "title": "Bereit für den Schritt von der Idee zur Produktion?",
-      "description": "Von Proof-of-Concept bis Rollout unterstütze ich Teams dabei, agentische KI und moderne Software Delivery zu operationalisieren.",
+      "title": "Bereit, Ihr Projekt zu starten?",
+      "description": "Von digitaler Transformation und Legacy-Modernisierung bis hin zu Full-Stack-Entwicklung und Cloud-Lösungen, ich bin hier, um Exzellenz zu liefern.",
       "email": "Projekt besprechen",
       "resume": "CV & Portfolio herunterladen"
     }
@@ -353,15 +337,15 @@
   "navigation": {
     "home": "Start",
     "about": "Über mich",
-    "experience": "Projekte",
-    "inspiration": "Insights",
+    "experience": "Erfahrung",
+    "inspiration": "Artikel",
     "motivation": "Motivation",
-    "process": "Vorgehen",
+    "process": "Prozess",
     "contact": "Kontakt"
   },
   "common": {
     "loading": "Lädt...",
-    "error": "Etwas ist schiefgelaufen",
+    "error": "Etwas ist schief gelaufen",
     "retry": "Erneut versuchen",
     "close": "Schließen",
     "menu": "Menü"
