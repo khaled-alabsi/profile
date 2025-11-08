@@ -148,12 +148,63 @@ export interface ContentData {
 }
 
 // Content storage
-const contentStorage: Record<SupportedLanguage, ContentData> = {
-  en: enContent,
+const defaultContent = enContent as ContentData;
+
+const contentStorage: Record<SupportedLanguage, Partial<ContentData>> = {
+  en: defaultContent,
   de: deContent,
   ar: arContent,
   tr: trContent,
 };
+
+function cloneValue<T>(value: T): T {
+  if (Array.isArray(value)) {
+    return value.map((item) => cloneValue(item)) as unknown as T;
+  }
+
+  if (value && typeof value === 'object') {
+    return Object.entries(value as Record<string, unknown>).reduce((acc, [key, val]) => {
+      acc[key] = cloneValue(val);
+      return acc;
+    }, {} as Record<string, unknown>) as T;
+  }
+
+  return value;
+}
+
+function applyOverrides(target: any, source: Record<string, unknown>): any {
+  Object.entries(source).forEach(([key, value]) => {
+    if (value === undefined) {
+      return;
+    }
+
+    if (Array.isArray(value)) {
+      target[key] = value;
+      return;
+    }
+
+    if (value && typeof value === 'object') {
+      const current = target[key];
+      const base = current && typeof current === 'object' && !Array.isArray(current) ? current : {};
+      target[key] = applyOverrides({ ...base }, value as Record<string, unknown>);
+      return;
+    }
+
+    target[key] = value;
+  });
+
+  return target;
+}
+
+function mergeContent(base: ContentData, override?: Partial<ContentData>): ContentData {
+  const clonedBase = cloneValue(base);
+
+  if (!override) {
+    return clonedBase;
+  }
+
+  return applyOverrides(clonedBase, override as Record<string, unknown>) as ContentData;
+}
 
 /**
  * Load content for a specific language
@@ -162,10 +213,16 @@ export function loadContent(language: SupportedLanguage): ContentData {
   // If language is disabled, fallback to default language
   if (!isLanguageEnabled(language)) {
     console.warn(`Language ${language} is disabled, falling back to ${DEFAULT_LANGUAGE}`);
-    return contentStorage[DEFAULT_LANGUAGE];
+    return mergeContent(defaultContent);
   }
-  
-  return contentStorage[language] || contentStorage[DEFAULT_LANGUAGE];
+
+  if (language === DEFAULT_LANGUAGE) {
+    return mergeContent(defaultContent);
+  }
+
+  const localizedContent = contentStorage[language];
+
+  return mergeContent(defaultContent, localizedContent);
 }
 
 /**
