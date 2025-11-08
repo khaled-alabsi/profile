@@ -8,7 +8,7 @@
       "Eski Sistem Modernizasyon Uzmanı",
       "İş Süreci Otomasyon Uzmanı"
     ],
-    "description": "Şirketlerin manuel işlemlerden akıllı dijital çözümlere geçişini destekliyorum, eski sistemleri modernize ediyorum ve ölçeklenebilir kurumsal uygulamalar geliştiriyorum. Pratik geliştirme ile sürekli araştırmayı birleştirerek ileri düzey çözümler sunuyorum.",
+    "description": "Şirketlerin manuel işlemlerden akıllı dijital çözümlere geçişini destekliyorum, eski sistemleri modernize ediyorum ve ölçeklenebilir kurumsal uygulamalar geliştiriyorum. Pratik geliştirme ile sürekli araştırmayı birleştirerek ileri düzey çözümler sunuyorum; artık modernizasyon stratejilerini uygulanabilir otomasyona dönüştüren ajan tabanlı yapay zeka orkestrasyonlarıyla güçlendirilmiş.",
     "cta": {
       "primary": "İşinizi Dönüştürün",
       "secondary": "Çözümlerimi Keşfedin"
@@ -25,6 +25,7 @@
       "Dijital dönüşüm ve eski sistem modernizasyonu uzmanı",
       "Kurumsal yazılım geliştirme ve DevOps uzmanlığı",
       "Gelişmekte olan teknolojiler ve otomasyon alanında sürekli araştırma",
+      "Modernizasyon takvimlerini hızlandırıp değeri daha hızlı ortaya çıkaran ajan yapay zeka hızlandırıcıları",
       "Küresel olarak freelance projeler ve danışmanlık hizmetleri için ulaşılabilir",
       "Odak: Manuel işlemlerden dijital dönüşüm ve iş süreci otomasyonu"
     ],
@@ -80,6 +81,16 @@
           "Proje Danışmanlığı",
           "Teknik Liderlik"
         ]
+      },
+      {
+        "name": "Ajan Tabanlı Yapay Zeka Çözümleri",
+        "technologies": [
+          "Dijitalleşme için ajan yapay zeka",
+          "Yapay zeka destekli dönüşüm",
+          "Miras kod geçişi için ajan sistemler",
+          "Otonom iş akışı orkestrasyonu",
+          "İnsan denetimli yönetişim modelleri"
+        ]
       }
     ]
   },
@@ -105,7 +116,13 @@
       {
         "title": "Eski Sistem Modernizasyonu ve Geçişi",
         "description": "COBOL ve mainframe eski uygulamalarını modern Java tabanlı mikroservis mimarisine başarıyla geçirdim. İş mantığını koruyarak performans, bakım ve ölçeklenebilirliği bankacılık ve sigorta sektöründeki kurumsal müşteriler için iyileştirdim.",
-        "technologies": ["Java", "Spring Boot", "Mikroservisler", "Eski Sistem Geçişi", "Sistem Entegrasyonu"],
+        "technologies": [
+          "Java",
+          "Spring Boot",
+          "Mikroservisler",
+          "Eski Sistem Geçişi",
+          "Sistem Entegrasyonu"
+        ],
         "image": "",
         "demo": "",
         "github": "",
@@ -142,7 +159,12 @@
       {
         "title": "Sigorta Talep İşleme Modernizasyonu",
         "description": "Eski sigorta talep işleme sistemini modernize ettim, manuel veri girişi ve onay iş akışlarını otomatikleştirdim. Dolandırıcılık tespiti ve karmaşıklık ve risk faktörlerine dayalı otomatik talep yönlendirmesi için makine öğrenmesi uyguladım.",
-        "technologies": ["Kubernetes", "Docker", "AI/ML", "Süreç Otomasyonu"],
+        "technologies": [
+          "Kubernetes",
+          "Docker",
+          "AI/ML",
+          "Süreç Otomasyonu"
+        ],
         "image": "",
         "demo": "",
         "github": "",
@@ -151,7 +173,12 @@
       {
         "title": "Kurumsal Bulut Geçişi ve DevOps",
         "description": "Eski on-premise sistemlerden modern bulut altyapısına geçiş yapan kuruluşlar için kapsamlı bulut geçişini yönettim. CI/CD pipeline'ları, konteynerleştirme ve otomatik dağıtım stratejilerini uyguladım.",
-        "technologies": ["AWS", "Kubernetes", "Terraform", "Jenkins"],
+        "technologies": [
+          "AWS",
+          "Kubernetes",
+          "Terraform",
+          "Jenkins"
+        ],
         "image": "",
         "demo": "",
         "github": "",
