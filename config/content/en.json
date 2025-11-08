@@ -8,7 +8,7 @@
       "Legacy System Modernization Expert",
       "Process Automation Specialist"
     ],
-    "description": "I help companies transition from manual processes to intelligent digital solutions, modernize legacy systems, and build scalable enterprise applications. Combining development expertise with continuous research to deliver cutting-edge solutions, now enhanced with agentic AI orchestrations that turn modernization strategies into actionable automation.",
+    "description": "I guide organizations from manual processes to intelligent digital products, modernize complex legacy estates, and build scalable enterprise platforms. My work blends hands-on engineering with continuous research, using agentic AI to turn modernization strategies into measurable results.",
     "cta": {
       "primary": "Transform Your Business",
       "secondary": "View My Solutions"
@@ -17,17 +17,16 @@
   "about": {
     "title": "About Me",
     "subtitle": "Digital Transformation Expert, Software Engineer & Continuous Researcher",
-    "description": "I specialize in helping companies transition from manual processes to digital solutions, modernizing legacy systems, and building robust enterprise applications. Combining extensive industry experience with continuous research, I deliver innovative solutions that drive business transformation.",
+    "description": "I help organizations digitize critical operations, modernize legacy systems, and deliver resilient enterprise applications. Years of field experience combined with ongoing research allow me to translate complex requirements into pragmatic, future-ready solutions.",
     "highlights": [
-      "Digital transformation strategist with academic research background",
-      "Hands-on expertise across the full software development lifecycle",
-      "10+ years professional software development experience",
-      "Specialized in digital transformation and legacy system modernization",
-      "Expert in enterprise software development and DevOps practices",
-      "Continuous research in emerging technologies and automation",
-      "Agentic AI accelerators that compress modernization timelines and unlock value faster",
-      "Available for freelance projects and consulting worldwide",
-      "Focus: Manual-to-digital conversion and business process automation"
+      "Technology strategist bridging applied research with enterprise delivery",
+      "10+ years leading projects across the full software development lifecycle",
+      "Modernized mission-critical systems for banking, insurance, and manufacturing clients",
+      "Designed automation programs that cut manual processing time and reduce operational risk",
+      "Deep expertise in enterprise software engineering, DevOps, and cloud migration",
+      "Active researcher in agentic AI, workflow orchestration, and human-in-the-loop automation",
+      "Trusted advisor for C-level stakeholders, architects, and delivery teams",
+      "Available worldwide for modernization, migration, and consulting engagements"
     ],
     "skills": [
       {
@@ -100,7 +99,7 @@
     "projects": [
       {
         "title": "Enterprise Digital Transformation",
-        "description": "Helped companies transition from manual paper-based processes to comprehensive digital workflows. Implemented automated document processing, digital approval systems, and real-time reporting dashboards, significantly reducing processing time and eliminating human errors.",
+        "description": "Converted paper-heavy operations into unified digital workflows with automated document processing, governed approvals, and real-time performance dashboards—cutting turnaround time while eliminating manual rework.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
@@ -115,7 +114,7 @@
       },
       {
         "title": "Legacy System Modernization & Migration",
-        "description": "Successfully migrated legacy COBOL and mainframe applications to modern Java-based microservices architecture. Preserved business logic while improving performance, maintainability, and scalability for enterprise clients in banking and insurance sectors.",
+        "description": "Replatformed COBOL and mainframe applications into modular Java microservices, preserving core business logic while improving reliability, maintainability, and scale for regulated banking and insurance programs.",
         "technologies": [
           "Java",
           "Spring Boot",
@@ -130,7 +129,7 @@
       },
       {
         "title": "Manufacturing Process Digitization",
-        "description": "Transformed manual quality control and inventory tracking processes into automated digital systems. Implemented IoT sensors, real-time monitoring dashboards, and predictive maintenance solutions, significantly improving operational efficiency.",
+        "description": "Digitized quality control and inventory processes with IoT telemetry, live monitoring, and predictive maintenance workflows to raise operational visibility and production throughput.",
         "technologies": [
           "Python",
           "IoT Integration",
@@ -144,7 +143,7 @@
       },
       {
         "title": "Banking Digital Workflow Automation",
-        "description": "Freelance project: Developed secure, scalable applications for securities products with automated approval workflows, replacing manual review processes. Enhanced compliance tracking and significantly reduced processing time.",
+        "description": "Delivered a secure, scalable securities platform with automated approval workflows that replaced manual reviews, strengthened compliance evidence, and accelerated processing for frontline teams.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
@@ -158,7 +157,7 @@
       },
       {
         "title": "Insurance Claims Processing Modernization",
-        "description": "Modernized legacy insurance claims processing system, automating manual data entry and approval workflows. Implemented machine learning for fraud detection and automated claim routing based on complexity and risk factors.",
+        "description": "Modernized claims processing by automating data intake and approvals, introducing ML-supported fraud detection, and orchestrating claims routing by complexity and risk profile.",
         "technologies": [
           "Kubernetes",
           "Docker",
@@ -172,7 +171,7 @@
       },
       {
         "title": "Enterprise Cloud Migration & DevOps",
-        "description": "Led comprehensive cloud migration for enterprises moving from on-premise legacy systems to modern cloud infrastructure. Implemented CI/CD pipelines, containerization, and automated deployment strategies.",
+        "description": "Directed enterprise cloud migrations from on-premise estates to resilient cloud infrastructure, implementing container platforms, infrastructure-as-code, and CI/CD pipelines for secure, repeatable delivery.",
         "technologies": [
           "AWS",
           "Kubernetes",
@@ -186,7 +185,7 @@
       },
       {
         "title": "Securities Products Platform (Banking)",
-        "description": "Freelance project: Developed secure, scalable full-stack applications using Spring Boot and ReactJS with micro-frontend architecture. Enhanced maintainability and modularity, and improved CI/CD pipelines with TeamCity.",
+        "description": "Built a modular micro-frontend platform for banking securities products using Spring Boot and React, improving maintainability, deployment cadence, and integration with existing CI/CD tooling.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
@@ -201,7 +200,7 @@
       },
       {
         "title": "Industrial Process Monitoring System",
-        "description": "Developed AI-powered real-time monitoring system for production processes, implementing multivariate control charts and statistical anomaly detection. Reduced false positives and improved early detection of process deviations.",
+        "description": "Delivered an AI-enabled monitoring suite with multivariate control charts and statistical anomaly detection, improving early detection of process deviations while reducing false alarms for plant operators.",
         "technologies": [
           "Python",
           "Statistical Analysis",
@@ -219,10 +218,10 @@
   "inspiration": {
     "title": "Turn Your Ideas Into Reality",
     "subtitle": "Digital transformation starts with a single step",
-    "description": "Every successful digital transformation begins with recognizing the potential for improvement. Here are common scenarios where technology can revolutionize your business operations.",
+    "description": "Digital transformation starts with spotting friction in everyday work. These scenarios highlight how thoughtful technology can remove bottlenecks and amplify your team's expertise.",
     "cta": {
       "title": "Ready to Start Your Digital Journey?",
-      "description": "Don't let manual processes hold your business back. Let's discuss how we can transform your operations and unlock your potential.",
+      "description": "Manual processes cap your growth. Let's identify the quick wins and design a transformation roadmap tailored to your organization.",
       "primaryButton": "Start Your Transformation",
       "secondaryButton": "Schedule a Consultation"
     },
@@ -254,28 +253,28 @@
     "points": [
       {
         "title": "Manual to Digital Expertise",
-        "description": "Specialized experience in converting manual, paper-based processes into efficient digital workflows, helping businesses reduce costs and improve accuracy.",
+        "description": "Specialized in transforming manual, paper-based workflows into governed digital experiences that improve accuracy and reduce operational cost.",
         "icon": "Lightbulb"
       },
       {
         "title": "Legacy System Modernization",
-        "description": "Proven track record in modernizing legacy applications and migrating outdated systems to modern, scalable architectures without disrupting business operations.",
+        "description": "Proven record modernizing legacy applications and delivering migrations to modern, scalable architectures without disrupting day-to-day operations.",
         "icon": "Award"
       },
       {
         "title": "Global Remote Collaboration",
-        "description": "Available for projects worldwide with extensive experience in remote collaboration, agile methodologies, and cross-cultural team management.",
+        "description": "Seasoned in global remote delivery with agile practices, distributed leadership, and cross-cultural collaboration.",
         "icon": "Target"
       },
       {
         "title": "Continuous Research & Innovation",
-        "description": "Staying at the forefront of technology through continuous research and development, ensuring your projects benefit from the latest advances in software engineering and automation.",
+        "description": "Constantly researching emerging technologies so your projects benefit from the latest advances in software engineering and automation.",
         "icon": "TrendingUp"
       }
     ],
     "cta": {
       "title": "Ready to Modernize Your Business Processes?",
-      "description": "Whether you need to digitize manual workflows, modernize legacy systems, or build new enterprise solutions, I'm available for freelance projects that drive digital transformation.",
+      "description": "Whether you need to digitize workflows, modernize legacy estates, or launch new enterprise products, I'm ready to support modernization programs that deliver measurable outcomes.",
       "button": "Start Your Transformation"
     }
   },
@@ -286,37 +285,37 @@
       {
         "number": "01",
         "title": "Discovery & Analysis",
-        "description": "Understanding business requirements, technical constraints, and security considerations",
+        "description": "Clarify business objectives, technical constraints, and regulatory considerations",
         "icon": "Lightbulb"
       },
       {
         "number": "02",
         "title": "Architecture & Planning",
-        "description": "Designing scalable, secure architecture with clear implementation roadmap",
+        "description": "Shape a scalable, secure architecture with a prioritized implementation roadmap",
         "icon": "Search"
       },
       {
         "number": "03",
         "title": "Development & Testing",
-        "description": "Agile development with continuous integration, automated testing, and code quality assurance",
+        "description": "Execute iterative development with CI/CD, automated testing, and peer-reviewed quality gates",
         "icon": "Code"
       },
       {
         "number": "04",
         "title": "DevOps & Deployment",
-        "description": "Containerized deployment with CI/CD pipelines, monitoring, and infrastructure as code",
+        "description": "Deploy with container platforms, infrastructure-as-code, and observability baked into every release",
         "icon": "Rocket"
       },
       {
         "number": "05",
         "title": "Monitoring & Optimization",
-        "description": "Performance monitoring, security audits, and continuous optimization",
+        "description": "Track performance, run security reviews, and optimize based on real-world signals",
         "icon": "TrendingUp"
       },
       {
         "number": "06",
         "title": "Support & Evolution",
-        "description": "Ongoing maintenance, feature enhancements, and technology updates",
+        "description": "Provide proactive maintenance, iterative enhancements, and technology upgrades",
         "icon": "Wrench"
       }
     ]
@@ -324,7 +323,7 @@
   "contact": {
     "title": "Let's Work Together on Your Next Project",
     "subtitle": "Available for Freelance Projects Worldwide",
-    "description": "Whether you need digital transformation consulting, enterprise software development, legacy system modernization, or process automation solutions, I'm ready to help you achieve your goals. With my expertise in both development and continuous research, I deliver results that matter.",
+    "description": "If you need digital transformation leadership, enterprise software delivery, legacy modernization, or process automation expertise, I'm ready to help. My blend of engineering rigor and continuous research keeps each engagement focused on tangible results.",
     "info": [
       {
         "icon": "Mail",
@@ -356,7 +355,7 @@
     },
     "cta": {
       "title": "Ready to Start Your Project?",
-      "description": "From digital transformation and legacy modernization to full-stack development and cloud solutions, I'm here to deliver excellence.",
+      "description": "From digital transformation and legacy modernization to full-stack development and cloud solutions, I deliver initiatives that create long-term value.",
       "email": "Discuss Your Project",
       "resume": "Download CV & Portfolio"
     }

@@ -1,43 +1,42 @@
 {
   "hero": {
     "greeting": "Merhaba, ben",
-    "name": "Yük. Müh. Khaled Alabsi",
+    "name": "Khaled Alabsi",
     "roles": [
       "Dijital Dönüşüm Danışmanı",
       "Serbest Yazılım Mühendisi",
-      "Eski Sistem Modernizasyon Uzmanı",
-      "İş Süreci Otomasyon Uzmanı"
+      "Legacy Sistem Modernizasyonu Uzmanı",
+      "Süreç Otomasyonu Uzmanı"
     ],
-    "description": "Şirketlerin manuel işlemlerden akıllı dijital çözümlere geçişini destekliyorum, eski sistemleri modernize ediyorum ve ölçeklenebilir kurumsal uygulamalar geliştiriyorum. Pratik geliştirme ile sürekli araştırmayı birleştirerek ileri düzey çözümler sunuyorum; artık modernizasyon stratejilerini uygulanabilir otomasyona dönüştüren ajan tabanlı yapay zeka orkestrasyonlarıyla güçlendirilmiş.",
+    "description": "Kuruluşları manuel süreçlerden akıllı dijital ürünlere taşıyor, karmaşık legacy ortamlarını modernize ediyor ve ölçeklenebilir kurumsal platformlar inşa ediyorum. Çalışmalarım, saha mühendisliğini sürekli araştırmayla birleştiriyor ve modernizasyon stratejilerini ölçülebilir sonuçlara dönüştürmek için ajan tabanlı yapay zekâdan yararlanıyor.",
     "cta": {
       "primary": "İşinizi Dönüştürün",
-      "secondary": "Çözümlerimi Keşfedin"
+      "secondary": "Çözümlerimi Görün"
     }
   },
   "about": {
     "title": "Hakkımda",
-    "subtitle": "Dijital Dönüşüm Uzmanı, Yazılım Mühendisi ve Sürekli Araştırmacı",
-    "description": "Şirketlerin manuel işlemlerden dijital çözümlere geçişini destekleme, eski sistemleri modernize etme ve güçlü kurumsal uygulamalar geliştirme konularında uzmanım. Bilgisayar ve İletişim Sistemleri alanında Yüksek Lisans derecesi ve geniş endüstri deneyimi ile pratik geliştirme ve sürekli araştırmayı birleştirerek işletmelerin dönüşümünü yönlendiren yenilikçi çözümler sunuyorum.",
+    "subtitle": "Dijital dönüşüm uzmanı, yazılım mühendisi ve sürekli araştırmacı",
+    "description": "Kurumların kritik operasyonlarını dijitalleştiriyor, legacy sistemleri modernize ediyor ve dayanıklı kurumsal uygulamalar teslim ediyorum. Yıllara dayanan saha deneyimini sürekli araştırmayla harmanlayarak karmaşık gereksinimleri pragmatik, geleceğe hazır çözümlere dönüştürüyorum.",
     "highlights": [
-      "Bilgisayar ve İletişim Sistemleri Yüksek Lisansı (2023)",
-      "Uygulamalı Bilgisayar Bilimleri Lisansı (2021)",
-      "10+ yıl yazılım geliştirme deneyimi",
-      "Dijital dönüşüm ve eski sistem modernizasyonu uzmanı",
-      "Kurumsal yazılım geliştirme ve DevOps uzmanlığı",
-      "Gelişmekte olan teknolojiler ve otomasyon alanında sürekli araştırma",
-      "Modernizasyon takvimlerini hızlandırıp değeri daha hızlı ortaya çıkaran ajan yapay zeka hızlandırıcıları",
-      "Küresel olarak freelance projeler ve danışmanlık hizmetleri için ulaşılabilir",
-      "Odak: Manuel işlemlerden dijital dönüşüm ve iş süreci otomasyonu"
+      "Uygulamalı araştırmayı kurumsal teslimatla buluşturan teknoloji stratejisti",
+      "Yazılım yaşam döngüsünün tamamında 10+ yıllık liderlik deneyimi",
+      "Banka, sigorta ve üretim müşterileri için kritik sistemleri modernize etti",
+      "Manuel işleri azaltıp operasyonel riskleri düşüren otomasyon programları tasarladı",
+      "Kurumsal yazılım geliştirme, DevOps ve bulut geçişlerinde derin uzmanlık",
+      "Ajan tabanlı yapay zekâ, iş akışı orkestrasyonu ve insan döngülü otomasyon alanlarında aktif araştırmacı",
+      "C-seviye yöneticiler, mimarlar ve teslimat ekipleri için güvenilir danışman",
+      "Modernizasyon, migrasyon ve danışmanlık projeleri için dünya çapında müsait"
     ],
     "skills": [
       {
         "name": "Dijital Dönüşüm",
         "technologies": [
-          "Eski Sistem Modernizasyonu",
-          "İş Süreci Otomasyonu",
-          "Manuel-Dijital Dönüşüm",
-          "İş Akışı Optimizasyonu",
-          "Sistem Entegrasyonu"
+          "Legacy sistem modernizasyonu",
+          "İş süreci otomasyonu",
+          "Manuelden dijitale dönüşüm",
+          "İş akışı optimizasyonu",
+          "Sistem entegrasyonu"
         ]
       },
       {
@@ -51,7 +50,7 @@
         ]
       },
       {
-        "name": "DevOps ve Bulut",
+        "name": "DevOps & Bulut",
         "technologies": [
           "Docker",
           "Kubernetes",
@@ -63,50 +62,50 @@
         ]
       },
       {
-        "name": "Veri ve Otomasyon",
+        "name": "Veri & Otomasyon",
         "technologies": [
-          "Süreç Otomasyonu",
+          "Süreç otomasyonu",
           "Python",
-          "Veritabanı Modernizasyonu",
-          "API Geliştirme",
-          "Entegrasyon Çözümleri"
+          "Veritabanı modernizasyonu",
+          "API geliştirme",
+          "Entegrasyon çözümleri"
         ]
       },
       {
         "name": "Danışmanlık Hizmetleri",
         "technologies": [
-          "Teknoloji Değerlendirmesi",
-          "Geçiş Planlaması",
-          "Sistem Mimarisi",
-          "Proje Danışmanlığı",
-          "Teknik Liderlik"
+          "Teknoloji değerlendirmesi",
+          "Migrasyon planlama",
+          "Sistem mimarisi",
+          "Proje danışmanlığı",
+          "Teknik liderlik"
         ]
       },
       {
-        "name": "Ajan Tabanlı Yapay Zeka Çözümleri",
+        "name": "Ajan Tabanlı Yapay Zekâ Çözümleri",
         "technologies": [
-          "Dijitalleşme için ajan yapay zeka",
-          "Yapay zeka destekli dönüşüm",
-          "Miras kod geçişi için ajan sistemler",
+          "Dijitalleşme için ajan tabanlı yapay zekâ",
+          "Yapay zekâ destekli iş dönüşümü",
+          "Legacy kod migrasyonu için ajan sistemleri",
           "Otonom iş akışı orkestrasyonu",
-          "İnsan denetimli yönetişim modelleri"
+          "İnsan döngülü yönetişim modelleri"
         ]
       }
     ]
   },
   "experience": {
-    "title": "Dijital Çözümler ve Proje Portföyü",
-    "subtitle": "Manuel süreçlerin dönüştürülmesi ve eski sistemlerin modernizasyonu",
+    "title": "Dijital Çözümler & Proje Portföyü",
+    "subtitle": "Manuel süreçleri dönüştürmek ve legacy sistemleri modernize etmek",
     "projects": [
       {
         "title": "Kurumsal Dijital Dönüşüm",
-        "description": "Şirketlerin manuel kağıt tabanlı süreçlerden kapsamlı dijital iş akışlarına geçişini destekledim. Otomatik belge işleme, dijital onay sistemleri ve gerçek zamanlı raporlama panelleri uyguladım, işlem süresini önemli ölçüde azaltarak insan hatalarını elimine ettim.",
+        "description": "Kâğıda dayalı süreçleri otomatik doküman işleme, kontrollü onay akışları ve gerçek zamanlı performans panolarıyla tekil dijital iş akışlarına dönüştürdü; döngü sürelerini kısaltıp manuel yeniden işi ortadan kaldırdı.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
-          "Süreç Otomasyonu",
-          "Dijital İş Akışı",
-          "API Entegrasyonu"
+          "Süreç otomasyonu",
+          "Dijital iş akışları",
+          "API entegrasyonu"
         ],
         "image": "",
         "demo": "",
@@ -114,14 +113,14 @@
         "featured": true
       },
       {
-        "title": "Eski Sistem Modernizasyonu ve Geçişi",
-        "description": "COBOL ve mainframe eski uygulamalarını modern Java tabanlı mikroservis mimarisine başarıyla geçirdim. İş mantığını koruyarak performans, bakım ve ölçeklenebilirliği bankacılık ve sigorta sektöründeki kurumsal müşteriler için iyileştirdim.",
+        "title": "Legacy Sistem Modernizasyonu & Migrasyonu",
+        "description": "COBOL ve ana bilgisayar uygulamalarını modüler Java mikroservislerine yeniden platformlaştırdı; temel iş mantığını korurken düzenlemeye tabi bankacılık ve sigorta programları için güvenilirlik, bakım yapılabilirlik ve ölçeklenebilirliği artırdı.",
         "technologies": [
           "Java",
           "Spring Boot",
           "Mikroservisler",
-          "Eski Sistem Geçişi",
-          "Sistem Entegrasyonu"
+          "Legacy migrasyonu",
+          "Sistem entegrasyonu"
         ],
         "image": "",
         "demo": "",
@@ -129,13 +128,13 @@
         "featured": true
       },
       {
-        "title": "İmalat Süreçlerinin Dijitalleştirilmesi",
-        "description": "Manuel kalite kontrol ve envanter takip süreçlerini otomatik dijital sistemlere dönüştürdüm. IoT sensörleri, gerçek zamanlı izleme panelleri ve tahmine dayalı bakım çözümleri uyguladım, operasyonel verimliliği önemli ölçüde artırdım.",
+        "title": "Üretim Süreçlerini Dijitalleştirme",
+        "description": "Manuel kalite kontrol ve stok takibi süreçlerini otomatik dijital sistemlere taşıdı, IoT sensörleri ve gerçek zamanlı panoları entegre ederek kestirimci bakım kurdu – daha yüksek şeffaflık ve daha az duruş sağladı.",
         "technologies": [
           "Python",
-          "IoT Entegrasyonu",
-          "Gerçek Zamanlı İzleme",
-          "Süreç Otomasyonu"
+          "IoT entegrasyonu",
+          "Gerçek zamanlı izleme",
+          "Süreç otomasyonu"
         ],
         "image": "",
         "demo": "",
@@ -144,12 +143,12 @@
       },
       {
         "title": "Dijital Bankacılık İş Akışı Otomasyonu",
-        "description": "Freelance proje: Menkul kıymet ürünleri için güvenli ve ölçeklenebilir uygulamalar geliştirdim, otomatik onay iş akışları ile manuel inceleme süreçlerini değiştirdim. Uyumluluk takibini iyileştirdim ve işlem süresini önemli ölçüde kısalttım.",
+        "description": "Menkul kıymet ürünleri için güvenli ve ölçeklenebilir uygulamalar geliştirdi, otomatik onay zincirleri kurarak uyum görünürlüğünü artırdı ve düzenlemeye tabi ekiplerde işlem sürelerini önemli ölçüde azalttı.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
           "TeamCity",
-          "İş Akışı Otomasyonu"
+          "İş akışı otomasyonu"
         ],
         "image": "",
         "demo": "",
@@ -157,13 +156,13 @@
         "featured": true
       },
       {
-        "title": "Sigorta Talep İşleme Modernizasyonu",
-        "description": "Eski sigorta talep işleme sistemini modernize ettim, manuel veri girişi ve onay iş akışlarını otomatikleştirdim. Dolandırıcılık tespiti ve karmaşıklık ve risk faktörlerine dayalı otomatik talep yönlendirmesi için makine öğrenmesi uyguladım.",
+        "title": "Sigorta Hasar Süreci Modernizasyonu",
+        "description": "Legacy hasar yönetimi platformunu modernize ederek manuel veri girişini otomatikleştirdi, yapay zekâ destekli sahtekârlık tespiti ekledi ve yanıt sürelerini kısaltıp riskleri azalttı.",
         "technologies": [
           "Kubernetes",
           "Docker",
-          "AI/ML",
-          "Süreç Otomasyonu"
+          "YZ/ML",
+          "Süreç otomasyonu"
         ],
         "image": "",
         "demo": "",
@@ -171,8 +170,8 @@
         "featured": false
       },
       {
-        "title": "Kurumsal Bulut Geçişi ve DevOps",
-        "description": "Eski on-premise sistemlerden modern bulut altyapısına geçiş yapan kuruluşlar için kapsamlı bulut geçişini yönettim. CI/CD pipeline'ları, konteynerleştirme ve otomatik dağıtım stratejilerini uyguladım.",
+        "title": "Kurumsal Bulut Migrasyonu & DevOps",
+        "description": "Legacy altyapılardan modern bulut ortamlarına uçtan uca geçiş planladı ve uyguladı; CI/CD boru hatları kurdu, konteynerizasyonu ve otomatik dağıtımı standartlaştırdı.",
         "technologies": [
           "AWS",
           "Kubernetes",
@@ -185,14 +184,14 @@
         "featured": false
       },
       {
-        "title": "Menkul Kıymet Ürünleri Platformu (Bankacılık)",
-        "description": "Freelance proje: Mikro frontend mimarisi ile Spring Boot ve ReactJS kullanarak güvenli ve ölçeklenebilir uygulamalar geliştirdim. Bakım yapılabilirliği ve modülerliği iyileştirdim, TeamCity ile CI/CD pipeline'larını geliştirdim.",
+        "title": "Mikro-Frontend'li Menkul Kıymet Platformu",
+        "description": "Spring Boot ve ReactJS tabanlı ölçeklenebilir full-stack çözümler geliştirdi, mikro-frontend mimarisini uyguladı ve TeamCity ile CI/CD süreçlerini optimize ederek bankacılık ekipleri için sürdürülebilir sürümler sağladı.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
           "TeamCity",
-          "Mikro Frontend Mimarisi",
-          "Bankacılık Sistemleri"
+          "Mikro-frontend mimarisi",
+          "Bankacılık sistemleri"
         ],
         "image": "",
         "demo": "",
@@ -200,123 +199,73 @@
         "featured": false
       },
       {
-        "title": "Endüstriyel Süreç İzleme Sistemi",
-        "description": "Üretim işlemleri için AI destekli gerçek zamanlı izleme sistemi geliştirdim, çok değişkenli kontrol şemaları ve istatistiksel anomali tespiti uyguladım. Yanlış pozitifleri azaltım ve süreç sapmalarının erken tespitini iyileştirdim.",
+        "title": "Endüstriyel Süreç İzleme",
+        "description": "Üretim hatları için yapay zekâ destekli gerçek zamanlı izleme sistemi geliştirdi, çok değişkenli kontrol kartları ve istatistiksel anomali tespiti uygulayarak yanlış alarmı azalttı ve erken müdahale sağladı.",
         "technologies": [
           "Python",
-          "İstatistiksel Analiz",
-          "Süreç İzleme",
-          "AI/ML",
-          "Gerçek Zamanlı İzleme"
+          "İstatistiksel analiz",
+          "Süreç kontrolü",
+          "YZ/ML",
+          "Gerçek zamanlı izleme"
         ],
         "image": "",
         "demo": "",
         "github": "",
         "featured": false
-      }
-    ]
-  },
-  "inspiration": {
-    "title": "Fikirlerinizi Gerçeğe Dönüştürün",
-    "subtitle": "Dijital dönüşüm tek bir adımla başlar",
-    "description": "Her başarılı dijital dönüşüm, iyileştirme potansiyelini fark etmekle başlar. İşte teknolojinin iş operasyonlarınızı devrimleştirebileceği yaygın senaryolar.",
-    "cta": {
-      "title": "Dijital yolculuğunuza başlamaya hazır mısınız?",
-      "description": "Manuel süreçlerin işinizi geri tutmasına izin vermeyin. Operasyonlarınızı nasıl dönüştürebileceğimizi ve potansiyelinizi nasıl açığa çıkarabileceğimizi konuşalım.",
-      "primaryButton": "Dönüşümünüzü başlatın",
-      "secondaryButton": "Danışmanlık planlayın"
-    },
-    "stats": {
-      "title": "Dijital dönüşüm neden önemli",
-      "items": [
-        {
-          "number": "85%",
-          "description": "Otomasyondan sonra manuel çalışmada azalma"
-        },
-        {
-          "number": "60%",
-          "description": "Gerçek zamanlı verilerle daha hızlı karar verme"
-        }
-      ]
-    }
-  },
-  "motivation": {
-    "title": "Dijital Dönüşümünüz İçin Neden Beni Seçmelisiniz",
-    "subtitle": "Geliştirmede mükemmellik ve sürekli yenilik",
-    "points": [
-      {
-        "title": "Manuel-Dijital Dönüşüm Uzmanlığı",
-        "description": "Manuel kağıt tabanlı süreçleri verimli dijital iş akışlarına dönüştürme konusunda özel uzmanlık, şirketlerin maliyetleri azaltmasına ve doğruluğu artırmasına yardımcı oluyorum.",
-        "icon": "Lightbulb"
-      },
-      {
-        "title": "Eski Sistem Modernizasyonu",
-        "description": "İş operasyonlarını kesintiye uğratmadan eski uygulamaları modernize etme ve eski sistemleri modern, ölçeklenebilir mimarilere geçirme konusunda kanıtlanmış sicil.",
-        "icon": "Award"
-      },
-      {
-        "title": "Küresel Uzaktan İşbirliği",
-        "description": "Uzaktan işbirliği, çevik metodolojiler ve çok kültürlü ekip yönetimi konusunda geniş deneyime sahip, dünya çapında projeler için ulaşılabilir.",
-        "icon": "Target"
-      },
-      {
-        "title": "Sürekli Araştırma ve İnovasyon",
-        "description": "Sürekli araştırma ve geliştirme ile önde kalıyorum, projelerinizin yazılım mühendisliği ve otomasyon alanındaki en son gelişmelerden faydalanmasını sağlıyorum.",
-        "icon": "TrendingUp"
       }
     ],
     "cta": {
       "title": "İş süreçlerinizi modernize etmeye hazır mısınız?",
-      "description": "Manuel iş akışlarını dijitalleştirmek, eski sistemleri modernize etmek veya yeni kurumsal çözümler geliştirmek için, dijital dönüşümü yönlendiren freelance projeler için ulaşılabilir durumdayım.",
-      "button": "Dönüşümünüzü Başlatın"
+      "description": "İster iş akışlarını dijitalleştirmek, ister legacy ortamları modernize etmek ya da yeni kurumsal ürünler başlatmak isteyin – ölçülebilir değer üreten programları destekliyorum.",
+      "button": "Dönüşümü Başlat"
     }
   },
   "process": {
     "title": "Geliştirme Sürecim",
-    "subtitle": "Konseptten üretime",
+    "subtitle": "Fikirden canlıya",
     "steps": [
       {
         "number": "01",
-        "title": "Keşif ve Analiz",
-        "description": "İş gereksinimlerini, teknik kısıtlamaları ve güvenlik hususlarını anlama",
+        "title": "Keşif & Analiz",
+        "description": "İş hedeflerini, teknik kısıtları ve düzenleyici gereksinimleri netleştir",
         "icon": "Lightbulb"
       },
       {
         "number": "02",
-        "title": "Mimari ve Planlama",
-        "description": "Net uygulama yol haritası ile ölçeklenebilir, güvenli mimari tasarlama",
+        "title": "Mimari & Planlama",
+        "description": "Ölçeklenebilir ve güvenli bir mimari şekillendir, önceliklendirilmiş uygulama yol haritası oluştur",
         "icon": "Search"
       },
       {
         "number": "03",
-        "title": "Geliştirme ve Test",
-        "description": "Sürekli entegrasyon, otomatik test ve kod kalitesi güvencesi ile çevik geliştirme",
+        "title": "Geliştirme & Test",
+        "description": "CI/CD, otomatik testler ve eş incelemelerle iteratif geliştirme yürüt",
         "icon": "Code"
       },
       {
         "number": "04",
-        "title": "DevOps ve Dağıtım",
-        "description": "CI/CD pipeline'ları, izleme ve kod olarak altyapı ile konteynerleştirilmiş dağıtım",
+        "title": "DevOps & Yaygınlaştırma",
+        "description": "Konteyner platformları, kod olarak altyapı ve gözlemlenebilirlik ile dağıtımları güvence altına al",
         "icon": "Rocket"
       },
       {
         "number": "05",
-        "title": "İzleme ve Optimizasyon",
-        "description": "Performans izleme, güvenlik denetimi ve sürekli iyileştirme",
+        "title": "İzleme & Optimizasyon",
+        "description": "Performansı takip et, güvenlik kontrolleri yap ve gerçek kullanım sinyallerine göre optimize et",
         "icon": "TrendingUp"
       },
       {
         "number": "06",
-        "title": "Destek ve Geliştirme",
-        "description": "Sürekli bakım, özellik geliştirmeleri ve teknoloji güncellemeleri",
+        "title": "Destek & Evrim",
+        "description": "Proaktif bakım, yinelemeli geliştirmeler ve teknoloji yükseltmeleri sun",
         "icon": "Wrench"
       }
     ]
   },
   "contact": {
-    "title": "Bir Sonraki Projenizde Birlikte Çalışalım",
-    "subtitle": "Küresel olarak freelance projeler için ulaşılabilir",
-    "description": "Dijital dönüşüm danışmanlığı, kurumsal yazılım geliştirme, eski sistem modernizasyonu veya süreç otomasyon çözümlerine ihtiyacınız olsun, hedeflerinize ulaşmanıza yardımcı olmaya hazırım. Geliştirme ve sürekli araştırma deneyimimle etkili sonuçlar sunuyorum.",
+    "title": "Birlikte sonraki projenizi başlatalım",
+    "subtitle": "Dünya çapında serbest projelere açığım",
+    "description": "Dijital dönüşüm liderliği, kurumsal yazılım teslimi, legacy modernizasyonu veya süreç otomasyonu uzmanlığı arıyorsanız yardımcı olmaya hazırım. Her iş birliğinde mühendislik disiplini ve sürekli araştırma odağıyla somut sonuçlara yönelirim.",
     "info": [
       {
         "icon": "Mail",
@@ -326,45 +275,45 @@
       {
         "icon": "MapPin",
         "label": "Konum",
-        "value": "Almanya (Küresel olarak uzaktan)"
+        "value": "Almanya (Dünya çapında uzaktan)"
       }
     ],
     "form": {
       "name": "Adınız",
-      "email": "E-posta adresiniz",
-      "subject": "Proje Sorgusu",
+      "email": "E-postanız",
+      "subject": "Proje talebi",
       "message": "Proje ihtiyaçlarınızı açıklayın...",
-      "submit": "Proje Sorgusu Gönder",
+      "submit": "Proje talebi gönder",
       "sending": "Gönderiliyor...",
-      "successMessage": "Proje sorgusu başarıyla gönderildi!",
+      "successMessage": "Proje talebiniz başarıyla gönderildi!",
       "namePlaceholder": "Adınız",
       "emailPlaceholder": "your@email.com",
-      "subjectPlaceholder": "Proje türü (örn: Dijital dönüşüm, Eski sistem modernizasyonu)",
-      "messagePlaceholder": "Proje gereksinimleriniz, zaman çizelgeniz ve bütçeniz hakkında bana bilgi verin..."
+      "subjectPlaceholder": "Proje türü (ör. Dijital dönüşüm, legacy modernizasyonu)",
+      "messagePlaceholder": "Proje gereksinimlerinizi, zaman planını ve bütçeyi paylaşın..."
     },
     "social": {
-      "title": "Benimle Bağlantı Kurun",
-      "description": "Mesleki güncellemelerimi ve görüşlerimi takip edin"
+      "title": "Benimle bağlantı kurun",
+      "description": "Profesyonel güncellemelerimi ve içgörülerimi takip edin"
     },
     "cta": {
-      "title": "Projenizi başlatmaya hazır mısınız?",
-      "description": "Dijital dönüşüm ve eski sistem modernizasyonundan kapsamlı geliştirme ve bulut çözümlerine kadar, mükemmellik sunmak için buradayım.",
-      "email": "Projenizi Tartışın",
-      "resume": "CV ve Portföy İndirin"
+      "title": "Projeye başlamaya hazır mısınız?",
+      "description": "Dijital dönüşümden legacy modernizasyona, full-stack geliştirmeden bulut çözümlerine kadar uzun vadeli değer oluşturan girişimler sunuyorum.",
+      "email": "Projeyi konuşalım",
+      "resume": "CV & portföyü indir"
     }
   },
   "navigation": {
     "home": "Ana Sayfa",
     "about": "Hakkımda",
     "experience": "Deneyim",
-    "inspiration": "Öne Çıkan Makaleler",
+    "inspiration": "İlham",
     "motivation": "Motivasyon",
     "process": "Süreç",
     "contact": "İletişim"
   },
   "common": {
     "loading": "Yükleniyor...",
-    "error": "Bir hata oluştu",
+    "error": "Bir sorun oluştu",
     "retry": "Tekrar dene",
     "close": "Kapat",
     "menu": "Menü"
