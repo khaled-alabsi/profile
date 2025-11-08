@@ -3,44 +3,54 @@
     "greeting": "Merhaba, ben",
     "name": "Yük. Müh. Khaled Alabsi",
     "roles": [
-      "Dijital Dönüşüm Danışmanı",
-      "Serbest Yazılım Mühendisi",
-      "Eski Sistem Modernizasyon Uzmanı",
-      "İş Süreci Otomasyon Uzmanı"
+      "Ajan Tabanlı KI Dönüşüm Danışmanı",
+      "Büyük Dil Modeli Stratejisti",
+      "Legacy Modernizasyon Lideri",
+      "Otomasyon Araştırmacısı"
     ],
-    "description": "Şirketlerin manuel işlemlerden akıllı dijital çözümlere geçişini destekliyorum, eski sistemleri modernize ediyorum ve ölçeklenebilir kurumsal uygulamalar geliştiriyorum. Pratik geliştirme ile sürekli araştırmayı birleştirerek ileri düzey çözümler sunuyorum.",
+    "description": "Ajan tabanlı KI sistemlerini tasarlıyor, inşa ediyor ve uyarlıyorum; böylece karmaşık legacy ortamları modern ve akıllı platformlara dönüştürüyorum. LLM orkestrasyonundan kapsamlı kod göçüne kadar kurumları manuel iş akışlarından dayanıklı, veri odaklı ürünlere taşıyorum.",
     "cta": {
-      "primary": "İşinizi Dönüştürün",
-      "secondary": "Çözümlerimi Keşfedin"
+      "primary": "KI dönüşümünüzü planlayın",
+      "secondary": "Ajan tabanlı çözümleri keşfedin"
     }
   },
   "about": {
     "title": "Hakkımda",
-    "subtitle": "Dijital Dönüşüm Uzmanı, Yazılım Mühendisi ve Sürekli Araştırmacı",
-    "description": "Şirketlerin manuel işlemlerden dijital çözümlere geçişini destekleme, eski sistemleri modernize etme ve güçlü kurumsal uygulamalar geliştirme konularında uzmanım. Bilgisayar ve İletişim Sistemleri alanında Yüksek Lisans derecesi ve geniş endüstri deneyimi ile pratik geliştirme ve sürekli araştırmayı birleştirerek işletmelerin dönüşümünü yönlendiren yenilikçi çözümler sunuyorum.",
+    "subtitle": "Agentic AI Stratejisti, Yazılım Mühendisi ve Legacy Modernizörü",
+    "description": "Büyük dil modelleri, otomasyon ve modern mühendisliği birleştiren ajan tabanlı KI programları tasarlıyorum. Odağım, legacy yazılımları ve iş süreçlerini insan kontrolünü koruyan, makinelerin ise ağır işleri üstlendiği uyarlanabilir platformlara dönüştürmek.",
     "highlights": [
-      "Bilgisayar ve İletişim Sistemleri Yüksek Lisansı (2023)",
-      "Uygulamalı Bilgisayar Bilimleri Lisansı (2021)",
-      "10+ yıl yazılım geliştirme deneyimi",
-      "Dijital dönüşüm ve eski sistem modernizasyonu uzmanı",
-      "Kurumsal yazılım geliştirme ve DevOps uzmanlığı",
-      "Gelişmekte olan teknolojiler ve otomasyon alanında sürekli araştırma",
-      "Küresel olarak freelance projeler ve danışmanlık hizmetleri için ulaşılabilir",
-      "Odak: Manuel işlemlerden dijital dönüşüm ve iş süreci otomasyonu"
+      "Düzenlemeye tabi sektörler için insan denetimli KI ajan mimarileri",
+      "Legacy monolitleri ölçülebilir ROI sağlayan KI destekli servislere çevirme",
+      "LLM'leri üretime hazır hale getiren retrieval ve orkestrasyon hatları",
+      "10+ yıllık kurumsal yazılım ve geçiş programı deneyimi",
+      "Yazılım zanaatkârlığını uygulamalı KI araştırması ve deneyleriyle birleştirme",
+      "Çoklu ajan çerçeveleri, değerlendirme araçları ve güvenlik raylarıyla pratik deneyim",
+      "Danışmanlık, teslimat liderliği ve yetkinlik inşası için dünya çapında erişilebilir",
+      "Odak: ajan tabanlı KI benimsemesi, LLM destekli legacy modernizasyonu ve otomasyon"
     ],
     "skills": [
       {
-        "name": "Dijital Dönüşüm",
+        "name": "Ajan Tabanlı KI Sistemleri",
         "technologies": [
-          "Eski Sistem Modernizasyonu",
-          "İş Süreci Otomasyonu",
-          "Manuel-Dijital Dönüşüm",
-          "İş Akışı Optimizasyonu",
-          "Sistem Entegrasyonu"
+          "Otonom Ajanlar",
+          "LLM Orkestrasyonu",
+          "Retrieval-Augmented Generation (RAG)",
+          "LangChain / LangGraph",
+          "Vektör Veritabanları"
         ]
       },
       {
-        "name": "Kurumsal Geliştirme",
+        "name": "Legacy Modernizasyonu",
+        "technologies": [
+          "Kod Refaktör Otomasyonu",
+          "Strangler Fig Mimarileri",
+          "Alan Ayrıştırma",
+          "Mainframe'den Buluta Geçiş",
+          "API Modernizasyonu"
+        ]
+      },
+      {
+        "name": "Kurumsal Platformlar",
         "technologies": [
           "Java",
           "Kotlin",
@@ -50,52 +60,41 @@
         ]
       },
       {
-        "name": "DevOps ve Bulut",
+        "name": "DevOps & MLOps",
         "technologies": [
           "Docker",
           "Kubernetes",
-          "Openshift",
-          "TeamCity",
-          "Jenkins",
-          "Ansible",
-          "Vagrant"
+          "OpenShift",
+          "GitHub Actions",
+          "CI/CD Otomasyonu",
+          "Model İzleme"
         ]
       },
       {
-        "name": "Veri ve Otomasyon",
+        "name": "Danışmanlık & Yetkinlik",
         "technologies": [
-          "Süreç Otomasyonu",
-          "Python",
-          "Veritabanı Modernizasyonu",
-          "API Geliştirme",
-          "Entegrasyon Çözümleri"
-        ]
-      },
-      {
-        "name": "Danışmanlık Hizmetleri",
-        "technologies": [
-          "Teknoloji Değerlendirmesi",
-          "Geçiş Planlaması",
-          "Sistem Mimarisi",
-          "Proje Danışmanlığı",
-          "Teknik Liderlik"
+          "AI Governance",
+          "Yetkinlik Yol Haritaları",
+          "LLM Güvenlik İncelemeleri",
+          "Upskilling Programları",
+          "Yönetici Atölyeleri"
         ]
       }
     ]
   },
   "experience": {
-    "title": "Dijital Çözümler ve Proje Portföyü",
-    "subtitle": "Manuel süreçlerin dönüştürülmesi ve eski sistemlerin modernizasyonu",
+    "title": "Agentic AI Programları ve Proje Portföyü",
+    "subtitle": "Legacy varlıklarını büyük dil modelleri ve otomasyon ile modernleştirmek",
     "projects": [
       {
-        "title": "Kurumsal Dijital Dönüşüm",
-        "description": "Şirketlerin manuel kağıt tabanlı süreçlerden kapsamlı dijital iş akışlarına geçişini destekledim. Otomatik belge işleme, dijital onay sistemleri ve gerçek zamanlı raporlama panelleri uyguladım, işlem süresini önemli ölçüde azaltarak insan hatalarını elimine ettim.",
+        "title": "Ajan Tabanlı Operasyon Kontrol Kulesi",
+        "description": "ERP ve CRM sistemlerinde hizmet taleplerini, dokümantasyonu ve onayları koordine eden çoklu ajan orkestrasyon katmanı tasarlandı. KI denetimli otomasyonlarla manuel iş yükü ve yanıt süresi ölçülebilir biçimde azaldı.",
         "technologies": [
-          "Spring Boot",
-          "ReactJS",
+          "Ajan İş Akışları",
+          "LangGraph",
           "Süreç Otomasyonu",
-          "Dijital İş Akışı",
-          "API Entegrasyonu"
+          "ERP Entegrasyonu",
+          "Gözlemlenebilirlik"
         ],
         "image": "",
         "demo": "",
@@ -103,22 +102,28 @@
         "featured": true
       },
       {
-        "title": "Eski Sistem Modernizasyonu ve Geçişi",
-        "description": "COBOL ve mainframe eski uygulamalarını modern Java tabanlı mikroservis mimarisine başarıyla geçirdim. İş mantığını koruyarak performans, bakım ve ölçeklenebilirliği bankacılık ve sigorta sektöründeki kurumsal müşteriler için iyileştirdim.",
-        "technologies": ["Java", "Spring Boot", "Mikroservisler", "Eski Sistem Geçişi", "Sistem Entegrasyonu"],
+        "title": "LLM Destekli Legacy Göç Fabrikası",
+        "description": "Mainframe modüllerini Spring Boot mikroservislere dönüştürmek için statik analizi LLM copilots ile birleştiren modernizasyon hattı kuruldu. Dokümantasyon, regresyon kapsamı ve bilgi paylaşımı otomatikleştirildi.",
+        "technologies": [
+          "Java",
+          "Spring Boot",
+          "Legacy Geçişi",
+          "LLM Ajanları",
+          "Knowledge Graphs"
+        ],
         "image": "",
         "demo": "",
         "github": "",
         "featured": true
       },
       {
-        "title": "İmalat Süreçlerinin Dijitalleştirilmesi",
-        "description": "Manuel kalite kontrol ve envanter takip süreçlerini otomatik dijital sistemlere dönüştürdüm. IoT sensörleri, gerçek zamanlı izleme panelleri ve tahmine dayalı bakım çözümleri uyguladım, operasyonel verimliliği önemli ölçüde artırdım.",
+        "title": "Üretim KI Bilgi Asistanı",
+        "description": "Shopfloor ekiplerine SOP'lar, sensör verileri ve çözüm adımlarını sunan çok dilli ajan tabanlı asistan yayına alındı. IoT akışlarıyla desteklenen RAG, duruş yaşanmadan sorunları çözmeye yardımcı oldu.",
         "technologies": [
           "Python",
+          "RAG Hatları",
           "IoT Entegrasyonu",
-          "Gerçek Zamanlı İzleme",
-          "Süreç Otomasyonu"
+          "Vektör Arama"
         ],
         "image": "",
         "demo": "",
@@ -126,13 +131,13 @@
         "featured": true
       },
       {
-        "title": "Dijital Bankacılık İş Akışı Otomasyonu",
-        "description": "Freelance proje: Menkul kıymet ürünleri için güvenli ve ölçeklenebilir uygulamalar geliştirdim, otomatik onay iş akışları ile manuel inceleme süreçlerini değiştirdim. Uyumluluk takibini iyileştirdim ve işlem süresini önemli ölçüde kısalttım.",
+        "title": "Bankacılık Uyum Copilot'u",
+        "description": "Menkul kıymet ürünleri için dosya oluşturmayı otomatikleştiren, anormallikleri işaretleyen ve onayları hızlandıran LLM tabanlı inceleme asistanı geliştirildi. Denetim kayıtları ve düzenleyici korumalar korundu.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
-          "TeamCity",
-          "İş Akışı Otomasyonu"
+          "Uyum Otomasyonu",
+          "LLM Değerlendirme"
         ],
         "image": "",
         "demo": "",
@@ -140,32 +145,43 @@
         "featured": true
       },
       {
-        "title": "Sigorta Talep İşleme Modernizasyonu",
-        "description": "Eski sigorta talep işleme sistemini modernize ettim, manuel veri girişi ve onay iş akışlarını otomatikleştirdim. Dolandırıcılık tespiti ve karmaşıklık ve risk faktörlerine dayalı otomatik talep yönlendirmesi için makine öğrenmesi uyguladım.",
-        "technologies": ["Kubernetes", "Docker", "AI/ML", "Süreç Otomasyonu"],
+        "title": "Sigorta Talep Zekâ Platformu",
+        "description": "Olay odaklı servisler, LLM triyaj ajanları ve sahtekârlık modellerini birleştirerek talep yaşam döngüsü modernleştirildi. Manuel iş yükü azaldı, şeffaf ve açıklanabilir kararlar sağlandı.",
+        "technologies": [
+          "Kubernetes",
+          "Olay Tabanlı Mimari",
+          "AI/ML",
+          "Ajan Değerlendirmesi"
+        ],
         "image": "",
         "demo": "",
         "github": "",
         "featured": false
       },
       {
-        "title": "Kurumsal Bulut Geçişi ve DevOps",
-        "description": "Eski on-premise sistemlerden modern bulut altyapısına geçiş yapan kuruluşlar için kapsamlı bulut geçişini yönettim. CI/CD pipeline'ları, konteynerleştirme ve otomatik dağıtım stratejilerini uyguladım.",
-        "technologies": ["AWS", "Kubernetes", "Terraform", "Jenkins"],
+        "title": "AI Ops ile Bulut Modernizasyonu",
+        "description": "KI destekli gözlemlenebilirlik, öngörüsel ölçekleme ve otomatik runbook'ları içeren bulut geçişi yönetildi. İnsan denetimiyle birlikte ekiplerin olaylara proaktif tepki vermesi sağlandı.",
+        "technologies": [
+          "AWS",
+          "Kubernetes",
+          "Terraform",
+          "MLOps",
+          "Olay Otomasyonu"
+        ],
         "image": "",
         "demo": "",
         "github": "",
         "featured": false
       },
       {
-        "title": "Menkul Kıymet Ürünleri Platformu (Bankacılık)",
-        "description": "Freelance proje: Mikro frontend mimarisi ile Spring Boot ve ReactJS kullanarak güvenli ve ölçeklenebilir uygulamalar geliştirdim. Bakım yapılabilirliği ve modülerliği iyileştirdim, TeamCity ile CI/CD pipeline'larını geliştirdim.",
+        "title": "Menkul Kıymet Platformu Yeniden Mimarı",
+        "description": "Modüler mikro frontend'ler, LLM destekli dokümantasyon iş akışları ve otomatik yayın kontrolleriyle bankacılık platformu yeniden inşa edildi. Sıkı uyumluluk korunurken teslimat hızı arttı.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
           "TeamCity",
           "Mikro Frontend Mimarisi",
-          "Bankacılık Sistemleri"
+          "LLM Otomasyonu"
         ],
         "image": "",
         "demo": "",
@@ -173,14 +189,14 @@
         "featured": false
       },
       {
-        "title": "Endüstriyel Süreç İzleme Sistemi",
-        "description": "Üretim işlemleri için AI destekli gerçek zamanlı izleme sistemi geliştirdim, çok değişkenli kontrol şemaları ve istatistiksel anomali tespiti uyguladım. Yanlış pozitifleri azaltım ve süreç sapmalarının erken tespitini iyileştirdim.",
+        "title": "Endüstriyel Süreç Zekâsı",
+        "description": "Çok değişkenli analiz, anomali tespiti ve üretici açıklamalar kullanan KI tabanlı izleme uygulandı. Ajan copilots sayesinde erken uyarılar ve müdahale önerileri sağlandı.",
         "technologies": [
           "Python",
           "İstatistiksel Analiz",
-          "Süreç İzleme",
+          "Süreç Kontrolü",
           "AI/ML",
-          "Gerçek Zamanlı İzleme"
+          "Üretken İçgörüler"
         ],
         "image": "",
         "demo": "",
@@ -190,106 +206,114 @@
     ]
   },
   "inspiration": {
-    "title": "Fikirlerinizi Gerçeğe Dönüştürün",
-    "subtitle": "Dijital dönüşüm tek bir adımla başlar",
-    "description": "Her başarılı dijital dönüşüm, iyileştirme potansiyelini fark etmekle başlar. İşte teknolojinin iş operasyonlarınızı devrimleştirebileceği yaygın senaryolar.",
+    "title": "Agentic KI'yi işe koşun",
+    "subtitle": "İnsanlar, süreçler ve modeller işbirliği yaptığında dönüşüm gerçekleşir",
+    "description": "Legacy yığınınızı taşımak veya yeni bir kabiliyet başlatmak mı istiyorsunuz? Ajan tabanlı KI teslimat sürelerini kısaltır, kaliteyi artırır ve yeni hizmetler açar. İşte uyguladığım yüksek etkili başlangıç noktaları.",
     "cta": {
-      "title": "Dijital yolculuğunuza başlamaya hazır mısınız?",
-      "description": "Manuel süreçlerin işinizi geri tutmasına izin vermeyin. Operasyonlarınızı nasıl dönüştürebileceğimizi ve potansiyelinizi nasıl açığa çıkarabileceğimizi konuşalım.",
-      "primaryButton": "Dönüşümünüzü başlatın",
-      "secondaryButton": "Danışmanlık planlayın"
+      "title": "KI yol haritanızı aktive etmeye hazır mısınız?",
+      "description": "Ajan tabanlı KI'nın kuruluşunuzda sürdürülebilir olması için pilotu, işletim modelini ve güvenlik raylarını birlikte tanımlayalım.",
+      "primaryButton": "Pilot tasarla",
+      "secondaryButton": "Atölye planla"
     },
     "stats": {
-      "title": "Dijital dönüşüm neden önemli",
+      "title": "Güncel programların etkisi",
       "items": [
         {
-          "number": "85%",
-          "description": "Otomasyondan sonra manuel çalışmada azalma"
+          "number": "%70",
+          "description": "LLM copilots ile kod göçünde hızlanma"
         },
         {
-          "number": "60%",
-          "description": "Gerçek zamanlı verilerle daha hızlı karar verme"
+          "number": "4x",
+          "description": "Operasyonlarda otomasyon kapsamasında artış"
+        },
+        {
+          "number": "<30g",
+          "description": "Yönetişimi tanımlanmış ajan tabanlı pilotların açılış süresi"
+        },
+        {
+          "number": "%100",
+          "description": "KI destekli karar ve değişikliklerin izlenebilirliği"
         }
       ]
     }
   },
   "motivation": {
-    "title": "Dijital Dönüşümünüz İçin Neden Beni Seçmelisiniz",
-    "subtitle": "Geliştirmede mükemmellik ve sürekli yenilik",
+    "title": "Neden ajan tabanlı KI için birlikte çalışmalıyız?",
+    "subtitle": "Pragmatik teslimat, ölçülebilir dönüşüm",
     "points": [
       {
-        "title": "Manuel-Dijital Dönüşüm Uzmanlığı",
-        "description": "Manuel kağıt tabanlı süreçleri verimli dijital iş akışlarına dönüştürme konusunda özel uzmanlık, şirketlerin maliyetleri azaltmasına ve doğruluğu artırmasına yardımcı oluyorum.",
-        "icon": "Lightbulb"
+        "title": "İnsan odaklı otomasyon",
+        "description": "Ajanlar tekrarlı işleri üstlenirken uzmanları döngüde tutan tasarımlar.",
+        "icon": "Users"
       },
       {
-        "title": "Eski Sistem Modernizasyonu",
-        "description": "İş operasyonlarını kesintiye uğratmadan eski uygulamaları modernize etme ve eski sistemleri modern, ölçeklenebilir mimarilere geçirme konusunda kanıtlanmış sicil.",
-        "icon": "Award"
+        "title": "Legacy öncelikli bakış",
+        "description": "Kritik sistemleri çözmede, bağımlılıkları haritalamada ve KI'yı güvenli şekilde kademeli olarak uygulamada derin deneyim.",
+        "icon": "Layers"
       },
       {
-        "title": "Küresel Uzaktan İşbirliği",
-        "description": "Uzaktan işbirliği, çevik metodolojiler ve çok kültürlü ekip yönetimi konusunda geniş deneyime sahip, dünya çapında projeler için ulaşılabilir.",
-        "icon": "Target"
+        "title": "Operasyonel mükemmellik",
+        "description": "KI çözümlerinin sürprizsiz ölçeklenmesi için gözlemlenebilirlik, yönetişim ve kalite kontrollerini yerleştirme.",
+        "icon": "Shield"
       },
       {
-        "title": "Sürekli Araştırma ve İnovasyon",
-        "description": "Sürekli araştırma ve geliştirme ile önde kalıyorum, projelerinizin yazılım mühendisliği ve otomasyon alanındaki en son gelişmelerden faydalanmasını sağlıyorum.",
-        "icon": "TrendingUp"
+        "title": "Araştırma liderliğinde teslimat",
+        "description": "En yeni LLM araçları, değerlendirme teknikleri ve güvenlik çerçeveleriyle sürekli deneyler.",
+        "icon": "Flask"
       }
     ],
     "cta": {
-      "title": "İş süreçlerinizi modernize etmeye hazır mısınız?",
-      "description": "Manuel iş akışlarını dijitalleştirmek, eski sistemleri modernize etmek veya yeni kurumsal çözümler geliştirmek için, dijital dönüşümü yönlendiren freelance projeler için ulaşılabilir durumdayım.",
-      "button": "Dönüşümünüzü Başlatın"
+      "title": "Bir KI veya modernizasyon girişimi mi planlıyorsunuz?",
+      "description": "Stratejiden uygulamaya kadar ekiplerin ajan tabanlı KI'yı sorumlu biçimde benimsemesine ve daha hızlı modernleşmesine yardım ediyorum.",
+      "button": "Tanışma görüşmesi planla"
     }
   },
   "process": {
-    "title": "Geliştirme Sürecim",
-    "subtitle": "Konseptten üretime",
+    "title": "KI dönüşümünü nasıl teslim ediyoruz",
+    "subtitle": "Yapılandırılmış, şeffaf ve işbirlikçi",
     "steps": [
       {
         "number": "01",
-        "title": "Keşif ve Analiz",
-        "description": "İş gereksinimlerini, teknik kısıtlamaları ve güvenlik hususlarını anlama",
-        "icon": "Lightbulb"
+        "title": "Değerlendirme ve Çerçeveleme",
+        "description": "Legacy varlıkları, veri akışları ve hedef sonuçları haritalayın. Başarı ölçümleri ve yönetişimi baştan tanımlayın.",
+        "icon": "Map"
       },
       {
         "number": "02",
-        "title": "Mimari ve Planlama",
-        "description": "Net uygulama yol haritası ile ölçeklenebilir, güvenli mimari tasarlama",
-        "icon": "Search"
+        "title": "Deneyim ve Mimari",
+        "description": "Ekiplerinize ve platformlarınıza uyumlu ajan iş akışlarını, LLM yığınını ve entegrasyon modelini tasarlayın.",
+        "icon": "Puzzle"
       },
       {
         "number": "03",
-        "title": "Geliştirme ve Test",
-        "description": "Sürekli entegrasyon, otomatik test ve kod kalitesi güvencesi ile çevik geliştirme",
-        "icon": "Code"
+        "title": "Pilot Geliştirme",
+        "description": "KI ajanlarını, konektörleri ve değerlendirme çerçevesini çevik ve test odaklı şekilde geliştirin.",
+        "icon": "Cpu"
       },
       {
         "number": "04",
-        "title": "DevOps ve Dağıtım",
-        "description": "CI/CD pipeline'ları, izleme ve kod olarak altyapı ile konteynerleştirilmiş dağıtım",
-        "icon": "Rocket"
+        "title": "Sağlamlaştırma ve Yayılım",
+        "description": "Ölçekli benimseme için güvenlik raylarını, izlemeyi ve değişim yönetimini operasyonelleştirin.",
+        "icon": "ShieldCheck"
       },
       {
         "number": "05",
-        "title": "İzleme ve Optimizasyon",
-        "description": "Performans izleme, güvenlik denetimi ve sürekli iyileştirme",
-        "icon": "TrendingUp"
+        "title": "Yetkinlik ve Devretme",
+        "description": "Ekipleri güçlendirin, oyun kitaplarını dokümante edin ve sürekli iyileştirme ritüellerini yerleştirin.",
+        "icon": "BookOpen"
       },
       {
         "number": "06",
-        "title": "Destek ve Geliştirme",
-        "description": "Sürekli bakım, özellik geliştirmeleri ve teknoloji güncellemeleri",
-        "icon": "Wrench"
+        "title": "Evrim ve Optimizasyon",
+        "description": "Değer takibi yapın, prompt ve modelleri yineleyin ve otomasyon kapsamını sorumlu şekilde genişletin.",
+        "icon": "RefreshCcw"
       }
     ]
   },
   "contact": {
-    "title": "Bir Sonraki Projenizde Birlikte Çalışalım",
-    "subtitle": "Küresel olarak freelance projeler için ulaşılabilir",
-    "description": "Dijital dönüşüm danışmanlığı, kurumsal yazılım geliştirme, eski sistem modernizasyonu veya süreç otomasyon çözümlerine ihtiyacınız olsun, hedeflerinize ulaşmanıza yardımcı olmaya hazırım. Geliştirme ve sürekli araştırma deneyimimle etkili sonuçlar sunuyorum.",
+    "title": "Birlikte bir sonraki KI atılımınızı oluşturalım",
+    "subtitle": "Dünya çapında stratejik çalışmalar için hazır",
+    "description": "Ajan tabanlı bir pilot, legacy modernizasyon yol haritası veya uygulama liderliği mi gerekiyor? Uyumlu, ölçeklenebilir ve ölçülebilir değer üreten güvenilir KI sistemleri kurmak için kuruluşlarla ortaklık kuruyorum.",
     "info": [
       {
         "icon": "Mail",
@@ -299,45 +323,45 @@
       {
         "icon": "MapPin",
         "label": "Konum",
-        "value": "Almanya (Küresel olarak uzaktan)"
+        "value": "Almanya (Dünya çapı uzaktan)"
       }
     ],
     "form": {
       "name": "Adınız",
-      "email": "E-posta adresiniz",
-      "subject": "Proje Sorgusu",
-      "message": "Proje ihtiyaçlarınızı açıklayın...",
-      "submit": "Proje Sorgusu Gönder",
+      "email": "E-postanız",
+      "subject": "Proje talebi",
+      "message": "KI veya modernizasyon hedeflerinizi anlatın...",
+      "submit": "Proje talebi gönder",
       "sending": "Gönderiliyor...",
-      "successMessage": "Proje sorgusu başarıyla gönderildi!",
+      "successMessage": "Proje talebiniz gönderildi!",
       "namePlaceholder": "Adınız",
-      "emailPlaceholder": "your@email.com",
-      "subjectPlaceholder": "Proje türü (örn: Dijital dönüşüm, Eski sistem modernizasyonu)",
-      "messagePlaceholder": "Proje gereksinimleriniz, zaman çizelgeniz ve bütçeniz hakkında bana bilgi verin..."
+      "emailPlaceholder": "siz@sirketiniz.com",
+      "subjectPlaceholder": "Proje tipi (örn. Agentic KI Pilot, Legacy Geçişi)",
+      "messagePlaceholder": "Mevcut durumunuzu, hedeflerinizi ve zaman çizelgenizi paylaşın..."
     },
     "social": {
-      "title": "Benimle Bağlantı Kurun",
-      "description": "Mesleki güncellemelerimi ve görüşlerimi takip edin"
+      "title": "Bağlantıda kalın",
+      "description": "Profesyonel güncellemeleri ve içgörüleri takip edin"
     },
     "cta": {
-      "title": "Projenizi başlatmaya hazır mısınız?",
-      "description": "Dijital dönüşüm ve eski sistem modernizasyonundan kapsamlı geliştirme ve bulut çözümlerine kadar, mükemmellik sunmak için buradayım.",
-      "email": "Projenizi Tartışın",
-      "resume": "CV ve Portföy İndirin"
+      "title": "Fikirden üretime geçmeye hazır mısınız?",
+      "description": "PoC'den ölçekli yayılıma kadar ekiplerin ajan tabanlı KI'yı ve modern yazılım teslimatını hayata geçirmesine yardımcı oluyorum.",
+      "email": "Projenizi konuşun",
+      "resume": "CV ve portföy indirin"
     }
   },
   "navigation": {
-    "home": "Ana Sayfa",
+    "home": "Ana sayfa",
     "about": "Hakkımda",
-    "experience": "Deneyim",
-    "inspiration": "Öne Çıkan Makaleler",
+    "experience": "Projeler",
+    "inspiration": "İlham",
     "motivation": "Motivasyon",
     "process": "Süreç",
     "contact": "İletişim"
   },
   "common": {
     "loading": "Yükleniyor...",
-    "error": "Bir hata oluştu",
+    "error": "Bir şeyler ters gitti",
     "retry": "Tekrar dene",
     "close": "Kapat",
     "menu": "Menü"
