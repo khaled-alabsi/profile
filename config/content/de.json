@@ -3,45 +3,44 @@
     "greeting": "Hallo, ich bin",
     "name": "Khaled Alabsi",
     "roles": [
-      "Digitalisierungs-Berater",
-      "Freiberuflicher Software-Ingenieur",
-      "Legacy-System Modernisierung",
-      "Prozessautomatisierungs-Spezialist"
+      "Berater für digitale Transformation",
+      "Freiberuflicher Software Engineer",
+      "Experte für Legacy-System-Modernisierung",
+      "Spezialist für Prozessautomatisierung"
     ],
-    "description": "Ich helfe Unternehmen beim Übergang von manuellen Prozessen zu intelligenten digitalen Lösungen, modernisiere Legacy-Systeme und entwickle skalierbare Unternehmensanwendungen. Verbinde Entwicklungsexpertise mit kontinuierlicher Forschung für zukunftsweisende Lösungen, jetzt erweitert durch agentische KI-Orchestrierungen, die Modernisierungsstrategien in umsetzbare Automatisierung überführen.",
+    "description": "Ich begleite Organisationen vom manuellen Arbeiten zu intelligenten digitalen Produkten, modernisiere komplexe Legacy-Landschaften und entwickle skalierbare Unternehmensplattformen. Meine Arbeit verbindet praxisnahes Engineering mit kontinuierlicher Forschung und nutzt agentische KI, um Modernisierungsstrategien in messbare Ergebnisse zu verwandeln.",
     "cta": {
-      "primary": "Ihr Business transformieren",
+      "primary": "Ihr Unternehmen transformieren",
       "secondary": "Meine Lösungen ansehen"
     }
   },
   "about": {
-    "title": "Über Mich",
-    "subtitle": "Digitalisierungs-Experte, Software-Ingenieur & Kontinuierlicher Forscher",
-    "description": "Ich spezialisiere mich darauf, Unternehmen beim Übergang von manuellen Prozessen zu digitalen Lösungen zu helfen, Legacy-Systeme zu modernisieren und robuste Unternehmensanwendungen zu entwickeln. Durch umfangreiche Industrieerfahrung und kontinuierliche Forschung liefere ich innovative Lösungen, die Geschäftstransformation vorantreiben.",
+    "title": "Über mich",
+    "subtitle": "Experte für digitale Transformation, Software Engineer & kontinuierlicher Forscher",
+    "description": "Ich helfe Organisationen dabei, geschäftskritische Abläufe zu digitalisieren, Legacy-Systeme zu modernisieren und belastbare Unternehmensanwendungen zu liefern. Langjährige Praxiserfahrung kombiniert mit laufender Forschung ermöglicht es mir, komplexe Anforderungen in pragmatische, zukunftssichere Lösungen zu übersetzen.",
     "highlights": [
-      "Digitalisierungsexperte mit Forschungserfahrung",
-      "Praxisnahe Expertise über den gesamten Software-Lebenszyklus",
-      "10+ Jahre professionelle Software-Entwicklungserfahrung",
-      "Spezialisiert auf Digitalisierung und Legacy-System-Modernisierung",
-      "Experte für Unternehmenssoftware-Entwicklung und DevOps-Praktiken",
-      "Kontinuierliche Forschung in aufkommenden Technologien und Automatisierung",
-      "Agentische KI-Beschleuniger, die Modernisierungsvorhaben beschleunigen und schneller Mehrwert freisetzen",
-      "Verfügbar für Freelance-Projekte und Beratung weltweit",
-      "Fokus: Manuell-zu-digital Konversion und Geschäftsprozess-Automatisierung"
+      "Technologiestratege, der angewandte Forschung mit Enterprise-Delivery verbindet",
+      "Über 10 Jahre Führungserfahrung über den gesamten Softwarelebenszyklus hinweg",
+      "Modernisierung geschäftskritischer Systeme für Banken-, Versicherungs- und Fertigungskunden",
+      "Entwicklung von Automatisierungsprogrammen, die manuelle Bearbeitung reduzieren und Risiken minimieren",
+      "Tiefe Expertise in Unternehmensentwicklung, DevOps und Cloud-Migration",
+      "Aktive Forschung in agentischer KI, Workflow-Orchestrierung und Human-in-the-Loop-Automatisierung",
+      "Vertrauenswürdiger Berater für C-Level, Architekten und Delivery-Teams",
+      "Weltweit verfügbar für Modernisierung, Migration und Beratungsmandate"
     ],
     "skills": [
       {
         "name": "Digitale Transformation",
         "technologies": [
-          "Legacy-System Modernisierung",
-          "Geschäftsprozess-Automatisierung",
-          "Manuell-zu-digital Konversion",
+          "Legacy-System-Modernisierung",
+          "Geschäftsprozessautomatisierung",
+          "Manuell-zu-digital-Konversion",
           "Workflow-Optimierung",
           "Systemintegration"
         ]
       },
       {
-        "name": "Unternehmens-Entwicklung",
+        "name": "Enterprise Development",
         "technologies": [
           "Java",
           "Kotlin",
@@ -67,13 +66,13 @@
         "technologies": [
           "Prozessautomatisierung",
           "Python",
-          "Datenbank-Modernisierung",
+          "Datenbankmodernisierung",
           "API-Entwicklung",
           "Integrationslösungen"
         ]
       },
       {
-        "name": "Beratungsservices",
+        "name": "Consulting Services",
         "technologies": [
           "Technologiebewertung",
           "Migrationsplanung",
@@ -86,7 +85,7 @@
         "name": "Agentische KI-Lösungen",
         "technologies": [
           "Agentische KI für Digitalisierung",
-          "KI-gestützte Transformation",
+          "KI-gestützte Business-Transformation",
           "Agentische Systeme für Legacy-Code-Migration",
           "Autonome Workflow-Orchestrierung",
           "Human-in-the-Loop Governance-Modelle"
@@ -95,12 +94,12 @@
     ]
   },
   "experience": {
-    "title": "Digitale Lösungen & Projekt-Portfolio",
-    "subtitle": "Transformation manueller Prozesse & Modernisierung von Legacy-Systemen",
+    "title": "Digitale Lösungen & Projektportfolio",
+    "subtitle": "Manuelle Prozesse transformieren & Legacy-Systeme modernisieren",
     "projects": [
       {
-        "title": "Unternehmens-Digitalisierung",
-        "description": "Unterstützte Unternehmen beim Übergang von manuellen, papiergestützten Prozessen zu umfassenden digitalen Workflows. Implementierte automatisierte Dokumentenverarbeitung, digitale Genehmigungssysteme und Echtzeit-Reporting-Dashboards, wodurch die Bearbeitungszeit erheblich reduziert und menschliche Fehler eliminiert wurden.",
+        "title": "Enterprise Digital Transformation",
+        "description": "Umstellung papierlastiger Abläufe auf integrierte digitale Workflows mit automatisierter Dokumentenverarbeitung, gesteuerten Genehmigungen und Performance-Dashboards in Echtzeit – verkürzte Durchlaufzeiten und eliminierte manuelle Nacharbeit.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
@@ -114,8 +113,8 @@
         "featured": true
       },
       {
-        "title": "Legacy-System Modernisierung & Migration",
-        "description": "Erfolgreich Legacy-COBOL und Mainframe-Anwendungen zu moderner Java-basierter Microservices-Architektur migriert. Geschäftslogik bewahrt während Verbesserung von Performance, Wartbarkeit und Skalierbarkeit für Unternehmenskunden im Banking- und Versicherungssektor.",
+        "title": "Legacy-System-Modernisierung & Migration",
+        "description": "Replattformung von COBOL- und Mainframe-Anwendungen zu modularen Java-Microservices – Kernlogik bewahrt, gleichzeitig Zuverlässigkeit, Wartbarkeit und Skalierung für regulierte Banken- und Versicherungsprogramme verbessert.",
         "technologies": [
           "Java",
           "Spring Boot",
@@ -129,8 +128,8 @@
         "featured": true
       },
       {
-        "title": "Fertigungsprozess-Digitalisierung",
-        "description": "Transformierte manuelle Qualitätskontroll- und Bestandsverfolgungsprozesse in automatisierte digitale Systeme. Implementierte IoT-Sensoren, Echtzeit-Überwachungs-Dashboards und vorausschauende Wartungslösungen, wodurch die Betriebseffizienz erheblich verbessert wurde.",
+        "title": "Fertigungsprozesse digitalisieren",
+        "description": "Manuelle Qualitätskontrollen und Bestandsverfolgung in automatisierte digitale Systeme überführt, IoT-Sensorik integriert und vorausschauende Wartung etabliert – Ergebnis: höhere Transparenz und geringere Stillstandzeiten.",
         "technologies": [
           "Python",
           "IoT-Integration",
@@ -143,8 +142,8 @@
         "featured": true
       },
       {
-        "title": "Banking Digital Workflow-Automatisierung",
-        "description": "Freelance-Projekt: Entwickelte sichere, skalierbare Anwendungen für Wertpapierprodukte mit automatisierten Genehmigungsworkflows, ersetzte manuelle Überprüfungsprozesse. Verbesserte Compliance-Verfolgung und reduzierte Bearbeitungszeit erheblich.",
+        "title": "Automatisierung digitaler Bank-Workflows",
+        "description": "Sichere, skalierbare Anwendungen für Wertpapierprodukte mit automatisierten Genehmigungsketten umgesetzt – Compliance-Transparenz erhöht und Bearbeitungszeiten in regulierten Teams signifikant reduziert.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
@@ -157,8 +156,8 @@
         "featured": true
       },
       {
-        "title": "Versicherungs-Schadenbearbeitung Modernisierung",
-        "description": "Modernisierte Legacy-Versicherungs-Schadenbearbeitungssystem, automatisierte manuelle Dateneingabe und Genehmigungsworkflows. Implementierte Machine Learning für Betrugserkennung und automatisierte Schadensweiterleitung basierend auf Komplexität und Risikofaktoren.",
+        "title": "Modernisierung der Schadenbearbeitung",
+        "description": "Legacy-Plattform für Versicherungsansprüche modernisiert, manuelle Datenerfassung automatisiert und KI-gestützte Betrugserkennung eingeführt – kürzere Reaktionszeiten und kontrollierte Risiken.",
         "technologies": [
           "Kubernetes",
           "Docker",
@@ -171,8 +170,8 @@
         "featured": false
       },
       {
-        "title": "Unternehmens-Cloud-Migration & DevOps",
-        "description": "Leitete umfassende Cloud-Migration für Unternehmen beim Übergang von On-Premise Legacy-Systemen zu moderner Cloud-Infrastruktur. Implementierte CI/CD-Pipelines, Containerisierung und automatisierte Deployment-Strategien.",
+        "title": "Cloud-Migration & DevOps für Unternehmen",
+        "description": "Ganzheitliche Cloud-Migration von Legacy-Infrastrukturen geplant und umgesetzt, CI/CD-Pipelines aufgebaut sowie Containerisierung und automatisierte Deployments etabliert.",
         "technologies": [
           "AWS",
           "Kubernetes",
@@ -185,14 +184,14 @@
         "featured": false
       },
       {
-        "title": "Wertpapier-Produktplattform (Banking)",
-        "description": "Freelance-Projekt: Entwickelte sichere, skalierbare Full-Stack-Anwendungen mit Spring Boot und ReactJS mit Micro-Frontend-Architektur. Verbesserte Wartbarkeit und Modularität sowie optimierte CI/CD-Pipelines mit TeamCity.",
+        "title": "Wertpapierplattform mit Micro-Frontends",
+        "description": "Skalierbare Full-Stack-Lösungen auf Basis von Spring Boot und ReactJS realisiert, Micro-Frontend-Architektur eingeführt und CI/CD mit TeamCity optimiert – wartungsarme Releases für Bankenteams.",
         "technologies": [
           "Spring Boot",
           "ReactJS",
           "TeamCity",
           "Micro-Frontend-Architektur",
-          "Banking-Systeme"
+          "Bankensysteme"
         ],
         "image": "",
         "demo": "",
@@ -200,8 +199,8 @@
         "featured": false
       },
       {
-        "title": "Industrielles Prozessüberwachungssystem",
-        "description": "Entwickelte KI-gestütztes Echtzeit-Überwachungssystem für Produktionsprozesse, implementierte multivariate Kontrollkarten und statistische Anomalieerkennung. Reduzierte Fehlalarme und verbesserte frühzeitige Erkennung von Prozessabweichungen.",
+        "title": "Industrielles Prozessmonitoring",
+        "description": "KI-gestütztes Monitoring für Produktionslinien entwickelt, multivariate Kontrollkarten sowie statistische Anomalieerkennung implementiert – Fehlalarme reduziert und frühzeitige Intervention ermöglicht.",
         "technologies": [
           "Python",
           "Statistische Analyse",
@@ -214,69 +213,11 @@
         "github": "",
         "featured": false
       }
-    ]
-  },
-  "inspiration": {
-    "title": "Verwandeln Sie Ihre Ideen in Realität",
-    "subtitle": "Digitale Transformation beginnt mit einem einzigen Schritt",
-    "description": "Jede erfolgreiche digitale Transformation beginnt mit der Erkenntnis des Verbesserungspotentials. Hier sind häufige Szenarien, in denen Technologie Ihre Geschäftsabläufe revolutionieren kann.",
-    "cta": {
-      "title": "Bereit, Ihre digitale Reise zu beginnen?",
-      "description": "Lassen Sie nicht zu, dass manuelle Prozesse Ihr Geschäft zurückhalten. Lassen Sie uns besprechen, wie wir Ihre Abläufe transformieren und Ihr Potenzial freisetzen können.",
-      "primaryButton": "Starten Sie Ihre Transformation",
-      "secondaryButton": "Beratung vereinbaren"
-    },
-    "stats": {
-      "title": "Warum digitale Transformation wichtig ist",
-      "items": [
-        {
-          "number": "85%",
-          "description": "Reduzierung manueller Arbeit nach Automatisierung"
-        },
-        {
-          "number": "60%",
-          "description": "Schnellere Entscheidungsfindung mit Echtzeitdaten"
-        },
-        {
-          "number": "40%",
-          "description": "Kosteneinsparungen durch Prozessoptimierung"
-        },
-        {
-          "number": "95%",
-          "description": "Verbesserung der Kundenzufriedenheit"
-        }
-      ]
-    }
-  },
-  "motivation": {
-    "title": "Warum mich für Ihre Digitale Transformation wählen",
-    "subtitle": "Entwicklungsexzellenz & Kontinuierliche Innovation",
-    "points": [
-      {
-        "title": "Manuell-zu-digital Expertise",
-        "description": "Spezialisierte Erfahrung in der Konversion manueller, papiergestützter Prozesse zu effizienten digitalen Workflows, hilft Unternehmen Kosten zu reduzieren und Genauigkeit zu verbessern.",
-        "icon": "Lightbulb"
-      },
-      {
-        "title": "Legacy-System Modernisierung",
-        "description": "Bewährte Erfolgsbilanz in der Modernisierung von Legacy-Anwendungen und Migration veralteter Systeme zu modernen, skalierbaren Architekturen ohne Störung des Geschäftsbetriebs.",
-        "icon": "Award"
-      },
-      {
-        "title": "Globale Remote-Zusammenarbeit",
-        "description": "Verfügbar für Projekte weltweit mit umfangreicher Erfahrung in Remote-Zusammenarbeit, agilen Methodologien und interkulturellem Teammanagement.",
-        "icon": "Target"
-      },
-      {
-        "title": "Kontinuierliche Forschung & Innovation",
-        "description": "An der Spitze der Technologie durch kontinuierliche Forschung und Entwicklung, um sicherzustellen, dass Ihre Projekte von den neuesten Fortschritten in Software-Engineering und Automatisierung profitieren.",
-        "icon": "TrendingUp"
-      }
     ],
     "cta": {
       "title": "Bereit, Ihre Geschäftsprozesse zu modernisieren?",
-      "description": "Ob Sie manuelle Workflows digitalisieren, Legacy-Systeme modernisieren oder neue Unternehmenslösungen entwickeln müssen, ich bin für Freelance-Projekte verfügbar, die digitale Transformation vorantreiben.",
-      "button": "Ihre Transformation starten"
+      "description": "Ganz gleich, ob Sie Workflows digitalisieren, Legacy-Landschaften modernisieren oder neue Unternehmensprodukte launchen möchten – ich unterstütze Programme mit messbarem Mehrwert.",
+      "button": "Transformation starten"
     }
   },
   "process": {
@@ -285,46 +226,46 @@
     "steps": [
       {
         "number": "01",
-        "title": "Entdeckung & Analyse",
-        "description": "Verständnis der Geschäftsanforderungen, technischen Einschränkungen und Sicherheitsüberlegungen",
+        "title": "Discovery & Analyse",
+        "description": "Geschäftsziele, technische Rahmenbedingungen und regulatorische Anforderungen präzisieren",
         "icon": "Lightbulb"
       },
       {
         "number": "02",
         "title": "Architektur & Planung",
-        "description": "Entwurf skalierbarer, sicherer Architektur mit klarer Implementierungs-Roadmap",
+        "description": "Skalierbare, sichere Architektur formen und einen priorisierten Umsetzungsfahrplan definieren",
         "icon": "Search"
       },
       {
         "number": "03",
-        "title": "Entwicklung & Testing",
-        "description": "Agile Entwicklung mit kontinuierlicher Integration, automatisierten Tests und Code-Qualitätssicherung",
+        "title": "Entwicklung & Tests",
+        "description": "Iterative Entwicklung mit CI/CD, automatisierten Tests und Peer-Reviews umsetzen",
         "icon": "Code"
       },
       {
         "number": "04",
-        "title": "DevOps & Bereitstellung",
-        "description": "Containerisierte Bereitstellung mit CI/CD-Pipelines, Überwachung und Infrastruktur als Code",
+        "title": "DevOps & Deployment",
+        "description": "Bereitstellungen mit Container-Plattformen, Infrastructure-as-Code und Observability absichern",
         "icon": "Rocket"
       },
       {
         "number": "05",
-        "title": "Überwachung & Optimierung",
-        "description": "Leistungsüberwachung, Sicherheitsaudits und kontinuierliche Optimierung",
+        "title": "Monitoring & Optimierung",
+        "description": "Performance verfolgen, Sicherheitsprüfungen durchführen und mit echten Nutzungsdaten optimieren",
         "icon": "TrendingUp"
       },
       {
         "number": "06",
-        "title": "Support & Evolution",
-        "description": "Laufende Wartung, Feature-Erweiterungen und Technologie-Updates",
+        "title": "Support & Weiterentwicklung",
+        "description": "Proaktive Wartung, iterative Erweiterungen und Technologie-Updates liefern",
         "icon": "Wrench"
       }
     ]
   },
   "contact": {
     "title": "Lassen Sie uns an Ihrem nächsten Projekt arbeiten",
-    "subtitle": "Verfügbar für Freelance-Projekte weltweit",
-    "description": "Ob Sie Digitalisierungsberatung, Unternehmenssoftware-Entwicklung, Legacy-System-Modernisierung oder Prozessautomatisierungslösungen benötigen, ich bin bereit, Ihnen beim Erreichen Ihrer Ziele zu helfen. Mit meiner Expertise in Entwicklung und kontinuierlicher Forschung liefere ich Ergebnisse, die zählen.",
+    "subtitle": "Weltweit für Freelance-Projekte verfügbar",
+    "description": "Ob Sie Führung in der digitalen Transformation, Enterprise-Delivery, Legacy-Modernisierung oder Prozessautomatisierung benötigen – ich unterstütze Sie mit Engineering-Rigor und Forschungsschärfe für messbare Resultate.",
     "info": [
       {
         "icon": "Mail",
@@ -341,22 +282,22 @@
       "name": "Ihr Name",
       "email": "Ihre E-Mail",
       "subject": "Projektanfrage",
-      "message": "Beschreiben Sie Ihre Projektanforderungen...",
+      "message": "Beschreiben Sie Ihren Projektbedarf...",
       "submit": "Projektanfrage senden",
-      "sending": "Wird gesendet...",
-      "successMessage": "Projektanfrage erfolgreich gesendet!",
+      "sending": "Senden...",
+      "successMessage": "Projektanfrage erfolgreich übermittelt!",
       "namePlaceholder": "Ihr Name",
       "emailPlaceholder": "ihre@email.com",
-      "subjectPlaceholder": "Projekttyp (z.B. Digitalisierung, Legacy-Modernisierung)",
-      "messagePlaceholder": "Erzählen Sie mir von Ihren Projektanforderungen, Zeitplan und Budget..."
+      "subjectPlaceholder": "Projekttyp (z. B. Digitale Transformation, Legacy-Modernisierung)",
+      "messagePlaceholder": "Erzählen Sie mir von Anforderungen, Zeitplan und Budget..."
     },
     "social": {
-      "title": "Verbinden Sie sich mit mir",
+      "title": "Vernetzen Sie sich mit mir",
       "description": "Folgen Sie meinen beruflichen Updates und Einblicken"
     },
     "cta": {
-      "title": "Bereit, Ihr Projekt zu starten?",
-      "description": "Von digitaler Transformation und Legacy-Modernisierung bis hin zu Full-Stack-Entwicklung und Cloud-Lösungen, ich bin hier, um Exzellenz zu liefern.",
+      "title": "Bereit für den Projektstart?",
+      "description": "Von digitaler Transformation und Legacy-Modernisierung bis zu Full-Stack-Entwicklung und Cloud-Lösungen – ich liefere Initiativen mit langfristigem Mehrwert.",
       "email": "Projekt besprechen",
       "resume": "CV & Portfolio herunterladen"
     }
@@ -365,7 +306,7 @@
     "home": "Start",
     "about": "Über mich",
     "experience": "Erfahrung",
-    "inspiration": "Artikel",
+    "inspiration": "Inspiration",
     "motivation": "Motivation",
     "process": "Prozess",
     "contact": "Kontakt"
