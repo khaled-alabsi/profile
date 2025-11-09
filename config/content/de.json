@@ -3,12 +3,12 @@
     "greeting": "Hallo, ich bin",
     "name": "Khaled Alabsi",
     "roles": [
-      "Berater für digitale Transformation",
+      "Technischer Berater & Full-Stack-Entwickler",
       "Freiberuflicher Software Engineer",
       "Experte für Legacy-System-Modernisierung",
       "Spezialist für Prozessautomatisierung"
     ],
-    "description": "Ich begleite Organisationen vom manuellen Arbeiten zu intelligenten digitalen Produkten, modernisiere komplexe Legacy-Landschaften und entwickle skalierbare Unternehmensplattformen. Meine Arbeit verbindet praxisnahes Engineering mit kontinuierlicher Forschung und nutzt agentische KI, um Modernisierungsstrategien in messbare Ergebnisse zu verwandeln.",
+    "description": "Ich konzipiere und liefere Modernisierungslösungen in Unternehmensqualität, die manuelle, legacy-abhängige Abläufe in intelligente, automatisierte Systeme verwandeln. Mit tiefer Expertise in Full-Stack-Entwicklung und KI-Integration beschleunige ich Initiativen zur digitalen Transformation, während Stabilität und Skalierbarkeit der Systeme erhalten bleiben. Ambitionierte technische Visionen überführe ich in ausgerollte, produktionsreife Plattformen.",
     "cta": {
       "primary": "Ihr Unternehmen transformieren",
       "secondary": "Meine Lösungen ansehen"
@@ -19,14 +19,10 @@
     "subtitle": "Experte für digitale Transformation, Software Engineer & kontinuierlicher Forscher",
     "description": "Ich helfe Organisationen dabei, geschäftskritische Abläufe zu digitalisieren, Legacy-Systeme zu modernisieren und belastbare Unternehmensanwendungen zu liefern. Langjährige Praxiserfahrung kombiniert mit laufender Forschung ermöglicht es mir, komplexe Anforderungen in pragmatische, zukunftssichere Lösungen zu übersetzen.",
     "highlights": [
-      "Technologiestratege, der angewandte Forschung mit Enterprise-Delivery verbindet",
-      "Über 10 Jahre Führungserfahrung über den gesamten Softwarelebenszyklus hinweg",
-      "Modernisierung geschäftskritischer Systeme für Banken-, Versicherungs- und Fertigungskunden",
-      "Entwicklung von Automatisierungsprogrammen, die manuelle Bearbeitung reduzieren und Risiken minimieren",
-      "Tiefe Expertise in Unternehmensentwicklung, DevOps und Cloud-Migration",
-      "Aktive Forschung in agentischer KI, Workflow-Orchestrierung und Human-in-the-Loop-Automatisierung",
-      "Vertrauenswürdiger Berater für C-Level, Architekten und Delivery-Teams",
-      "Weltweit verfügbar für Modernisierung, Migration und Beratungsmandate"
+      "Was ich liefere: Modernisierte geschäftskritische Systeme für Banken-, Versicherungs- und Industriekunden, die Legacy-Architekturen in skalierbare, cloud-native Plattformen überführen. Automatisierungsprogramme entwickelt, die manuelle Engpässe beseitigen, operationelle Risiken reduzieren und die Time-to-Market verkürzen. Enterprise-Lösungen geliefert, die hohe Transaktionsvolumina verarbeiten und gleichzeitig Stabilität und Compliance sicherstellen.",
+      "Erfahrung: Über 10 Jahre Leitung von Enterprise-Softwareprojekten über den gesamten Entwicklungszyklus – von Anforderungsanalyse und Architekturdesign bis zu Deployment und Optimierung. Tiefgehende Expertise in Full-Stack-Entwicklung, Microservices-Architekturen, DevOps-Praktiken, Cloud-Migrationsstrategien und Legacy-Modernisierung. Nachweisliche Erfolge bei der fristgerechten Umsetzung komplexer Projekte bei gleichzeitigem Schuldenmanagement und Sicherstellung der Wartbarkeit.",
+      "Vorgehen: Ich verbinde Spitzenforschung mit pragmatischer Enterprise-Delivery und setze Technologien wie agentische KI, Workflow-Orchestrierung und intelligente Automatisierung ein, um reale Geschäftsherausforderungen zu lösen. Aktiver Forscher zu Human-in-the-Loop-Systemen und modernen Software-Engineering-Praktiken. Vertrauenswürdiger Berater für C-Level, Lösungsarchitekten und Delivery-Teams – übersetze Geschäftsstrategien in technische Roadmaps und umsetzbare Lösungen.",
+      "Verfügbarkeit: Weltweit verfügbar für Modernisierungsprojekte, Cloud-Migrationen und technische Beratungsmandate."
     ],
     "skills": [
       {

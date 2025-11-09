@@ -3,12 +3,12 @@
     "greeting": "Hello, I'm",
     "name": "Khaled Alabsi",
     "roles": [
-      "Digital Transformation Consultant",
+      "Technical Consultant & Full-Stack Developer",
       "Freelance Software Engineer",
       "Legacy System Modernization Expert",
       "Process Automation Specialist"
     ],
-    "description": "I guide organizations from manual processes to intelligent digital products, modernize complex legacy estates, and build scalable enterprise platforms. My work blends hands-on engineering with continuous research, using agentic AI to turn modernization strategies into measurable results.",
+    "description": "I architect and deliver enterprise-grade modernization solutions that transform manual, legacy-dependent operations into intelligent, automated systems. With deep expertise in full-stack development and AI integration, I accelerate digital transformation initiatives while maintaining system stability and scalability. I convert ambitious technical visions into deployed, production-ready platforms.",
     "cta": {
       "primary": "Transform Your Business",
       "secondary": "View My Solutions"
@@ -19,14 +19,10 @@
     "subtitle": "Digital Transformation Expert, Software Engineer & Continuous Researcher",
     "description": "I help organizations digitize critical operations, modernize legacy systems, and deliver resilient enterprise applications. Years of field experience combined with ongoing research allow me to translate complex requirements into pragmatic, future-ready solutions.",
     "highlights": [
-      "Technology strategist bridging applied research with enterprise delivery",
-      "10+ years leading projects across the full software development lifecycle",
-      "Modernized mission-critical systems for banking, insurance, and manufacturing clients",
-      "Designed automation programs that cut manual processing time and reduce operational risk",
-      "Deep expertise in enterprise software engineering, DevOps, and cloud migration",
-      "Active researcher in agentic AI, workflow orchestration, and human-in-the-loop automation",
-      "Trusted advisor for C-level stakeholders, architects, and delivery teams",
-      "Available worldwide for modernization, migration, and consulting engagements"
+      "What I Deliver: Modernized mission-critical systems for banking, insurance, and manufacturing clients, transforming legacy architectures into scalable, cloud-native platforms. Designed automation programs that eliminate manual processing bottlenecks, reduce operational risk, and accelerate time-to-market. Delivered enterprise solutions that handle high-volume transactions while maintaining system stability and compliance requirements.",
+      "Experience: 10+ years leading enterprise software projects across the full development lifecycle—from requirements analysis and architecture design through deployment and optimization. Deep expertise in full-stack development, microservices architecture, DevOps practices, cloud migration strategies, and legacy system transformation. Proven track record of delivering complex projects on time while managing technical debt and ensuring maintainability.",
+      "Approach: I bridge cutting-edge research with pragmatic enterprise delivery, applying emerging technologies like agentic AI, workflow orchestration, and intelligent automation to solve real-world business challenges. Active researcher exploring human-in-the-loop systems and advanced software engineering practices. Trusted advisor for C-level stakeholders, solution architects, and delivery teams—translating business strategy into technical roadmaps and executable solutions.",
+      "Availability: Available worldwide for modernization projects, cloud migration engagements, and technical consulting assignments."
     ],
     "skills": [
       {
