@@ -54,7 +54,7 @@ export default function Inspiration({ locale }: InspirationProps) {
       <section id="inspiration" className="py-20 inspiration-section">
         <div className="container mx-auto px-6">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
+            <h2 className="text-4xl font-bold text-theme-primary mb-4">
               {text.inspiration?.title || 'Loading...'}
             </h2>
           </div>
@@ -77,10 +77,10 @@ export default function Inspiration({ locale }: InspirationProps) {
       <section id="inspiration" className="py-20 inspiration-section">
         <div className="container mx-auto px-6">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
+            <h2 className="text-4xl font-bold text-theme-primary mb-4">
               {text.inspiration?.title || 'Featured Articles'}
             </h2>
-            <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
+            <p className="text-xl text-theme-secondary max-w-3xl mx-auto">
               {text.inspiration?.subtitle || 'Discover insights and solutions that drive innovation.'}
             </p>
           </div>

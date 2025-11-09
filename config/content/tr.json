@@ -3,12 +3,12 @@
     "greeting": "Merhaba, ben",
     "name": "Khaled Alabsi",
     "roles": [
-      "Dijital Dönüşüm Danışmanı",
+      "Teknik Danışman ve Full-Stack Geliştirici",
       "Serbest Yazılım Mühendisi",
       "Legacy Sistem Modernizasyonu Uzmanı",
       "Süreç Otomasyonu Uzmanı"
     ],
-    "description": "Kuruluşları manuel süreçlerden akıllı dijital ürünlere taşıyor, karmaşık legacy ortamlarını modernize ediyor ve ölçeklenebilir kurumsal platformlar inşa ediyorum. Çalışmalarım, saha mühendisliğini sürekli araştırmayla birleştiriyor ve modernizasyon stratejilerini ölçülebilir sonuçlara dönüştürmek için ajan tabanlı yapay zekâdan yararlanıyor.",
+    "description": "El ile yürütülen, eski sistemlere bağımlı operasyonları akıllı ve otomatik yapılara dönüştüren kurumsal ölçekli modernizasyon çözümlerini tasarlar ve hayata geçiririm. Full-stack geliştirme ve yapay zekâ entegrasyonu konusundaki derin uzmanlığım sayesinde dijital dönüşüm girişimlerini hızlandırır, sistem kararlılığını ve ölçeklenebilirliğini korurum. İddialı teknik vizyonları devreye alınmış, üretime hazır platformlara dönüştürürüm.",
     "cta": {
       "primary": "İşinizi Dönüştürün",
       "secondary": "Çözümlerimi Görün"
@@ -19,14 +19,10 @@
     "subtitle": "Dijital dönüşüm uzmanı, yazılım mühendisi ve sürekli araştırmacı",
     "description": "Kurumların kritik operasyonlarını dijitalleştiriyor, legacy sistemleri modernize ediyor ve dayanıklı kurumsal uygulamalar teslim ediyorum. Yıllara dayanan saha deneyimini sürekli araştırmayla harmanlayarak karmaşık gereksinimleri pragmatik, geleceğe hazır çözümlere dönüştürüyorum.",
     "highlights": [
-      "Uygulamalı araştırmayı kurumsal teslimatla buluşturan teknoloji stratejisti",
-      "Yazılım yaşam döngüsünün tamamında 10+ yıllık liderlik deneyimi",
-      "Banka, sigorta ve üretim müşterileri için kritik sistemleri modernize etti",
-      "Manuel işleri azaltıp operasyonel riskleri düşüren otomasyon programları tasarladı",
-      "Kurumsal yazılım geliştirme, DevOps ve bulut geçişlerinde derin uzmanlık",
-      "Ajan tabanlı yapay zekâ, iş akışı orkestrasyonu ve insan döngülü otomasyon alanlarında aktif araştırmacı",
-      "C-seviye yöneticiler, mimarlar ve teslimat ekipleri için güvenilir danışman",
-      "Modernizasyon, migrasyon ve danışmanlık projeleri için dünya çapında müsait"
+      "Neler sunuyorum: Bankacılık, sigorta ve üretim müşterileri için kritik sistemleri modernize ederek eski mimarileri ölçeklenebilir, bulut tabanlı platformlara taşıdım. Manuel işlem darboğazlarını ortadan kaldıran, operasyonel riski azaltan ve pazara çıkış süresini hızlandıran otomasyon programları tasarladım. Yüksek hacimli işlemleri yönetirken sistem kararlılığını ve uyumluluk gereksinimlerini koruyan kurumsal çözümler teslim ettim.",
+      "Deneyim: Gereksinim analizi ve mimari tasarımdan dağıtıma ve optimizasyona kadar yazılım yaşam döngüsünün tamamında 10+ yıllık kurumsal proje liderliği. Full-stack geliştirme, mikroservis mimarileri, DevOps uygulamaları, buluta geçiş stratejileri ve eski sistem dönüşümleri konularında derin uzmanlık. Teknik borcu yönetirken ve sürdürülebilirliği güvence altına alırken karmaşık projeleri zamanında teslim etme konusunda kanıtlanmış başarı.",
+      "Yaklaşım: Agentik yapay zekâ, iş akışı orkestrasyonu ve akıllı otomasyon gibi ortaya çıkan teknolojileri gerçek iş zorluklarını çözmek için uygulayarak ileri araştırmalar ile pragmatik kurumsal teslimatı birleştiriyorum. İnsan-merkezli sistemler ve gelişmiş yazılım mühendisliği uygulamaları üzerine aktif bir araştırmacıyım. C-seviye paydaşlar, çözüm mimarları ve teslimat ekipleri için güvenilir bir danışman olarak iş stratejisini teknik yol haritalarına ve uygulanabilir çözümlere çeviriyorum.",
+      "Uygunluk: Modernizasyon projeleri, buluta geçiş çalışmaları ve teknik danışmanlık görevleri için dünya çapında müsaitim."
     ],
     "skills": [
       {
